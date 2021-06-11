@@ -1,0 +1,751 @@
+algorithm;goal;solved;best_fitness;explored;iterations;time;n;m;parameters
+Adaptive Mutation 2021 GA;-1203;True;-1198.4968;13.0;0;0.0061557493172585;22;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-1203;True;-1197.8052;13.0;0;0.0065501541830599;22;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-1203;True;-1200.1951;13.0;0;0.0054076830856502;22;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-1203;True;-1199.1428;13.0;0;0.0057605328038334;22;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-1203;True;-1198.7269;13.0;0;0.0065233479253947;22;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-395801;True;-395791.4022;445.0;36;0.2187436991371214;48;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-395801;True;-395583.5211;613.0;50;0.2903377027250826;48;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-395801;True;-395785.9886;505.0;41;0.2438015122897923;48;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-395801;True;-395565.1681;397.0;32;0.1977924141101539;48;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-395801;True;-395562.3166;421.0;34;0.2041302728466689;48;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-3886;True;-3885.5708;361.0;29;0.2088067629374563;51;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-3886;True;-3885.7661;241.0;19;0.151585339102894;51;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-3886;True;-3884.1477;217.0;17;0.133942652028054;51;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-3886;True;-3882.4648;337.0;27;0.1968020112253725;51;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-3886;True;-3885.9068;205.0;16;0.123907022178173;51;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-72348;True;-72310.8794;121.0;9;0.0698546292260289;52;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-72348;True;-72309.8278;205.0;16;0.1092039290815591;52;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-72348;True;-72243.5306;169.0;13;0.0916503658518195;52;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-72348;True;-72253.383;133.0;10;0.0731187630444765;52;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-72348;True;-72274.1166;49.0;3;0.0277077541686594;52;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-7656;True;-7655.6624;1417.0;117;0.909121893811971;70;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-7656;True;-7655.1086;1585.0;131;1.0220853490754962;70;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-7656;True;-7655.8103;1033.0;85;0.6680950787849724;70;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-7656;True;-7655.7209;1561.0;129;1.0148216420784593;70;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-7656;True;-7655.0499;1477.0;122;0.9475233010016382;70;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-6091;True;-6090.7015;85.0;6;0.0627877870574593;76;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-6091;True;-6090.1067;145.0;11;0.1032623080536723;76;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-6091;True;-6085.8421;217.0;17;0.1582020171917975;76;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-6091;True;-6090.0635;181.0;14;0.1309856385923922;76;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-6091;True;-6090.7079;109.0;8;0.0853912178426981;76;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-1396943;True;-1396136.4188;133.0;10;0.1079131546430289;76;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-1396943;True;-1395870.5174;157.0;12;0.1253493898548185;76;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-1396943;True;-1396532.6145;193.0;15;0.1509987101890146;76;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-1396943;True;-1396930.5967;253.0;20;0.1921190689317882;76;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-1396943;True;-1395872.0466;241.0;19;0.1891057849861681;76;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-7446;True;-7445.2834;397.0;32;0.4345323489978909;96;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-7446;True;-7441.3788;325.0;26;0.3608003742992878;96;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-7446;True;-7444.3126;361.0;29;0.4046150729991495;96;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-7446;True;-7445.0343;325.0;26;0.3649796205572784;96;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-7446;True;-7440.7912;361.0;29;0.4332814011722803;96;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-340635;True;-340594.455;769.0;63;0.7818173407576978;100;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-340635;True;-340619.3489;1033.0;85;1.0568854212760923;100;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-340635;True;-340587.9346;577.0;47;0.5801206189207733;100;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-340635;True;-340596.2607;649.0;53;0.6423230161890388;100;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-340635;True;-340617.4785;877.0;72;0.8742625401355326;100;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-320942;True;-320910.4851;1153.0;95;1.3012057659216223;100;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-320942;True;-320940.1066;1345.0;111;1.5322043159976602;100;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-320942;True;-320857.8;1177.0;97;1.3446855647489429;100;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-320942;True;-320934.6273;1297.0;107;1.4816731219179928;100;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-320942;True;-320892.1257;1093.0;90;1.2337835133075714;100;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-316429;True;-316395.6646;1525.0;126;1.4993701754137874;100;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-316429;True;-316427.584;1645.0;136;1.626271386165172;100;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-316429;True;-316419.834;1465.0;121;1.4571736697107551;100;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-316429;True;-316417.5791;1741.0;144;1.7271280600689352;100;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-316429;True;-316278.5482;1837.0;152;1.8115459219552577;100;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-7409;True;-7408.7745;1177.0;97;1.2059043059125545;101;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-7409;True;-7408.5647;1045.0;86;1.0555209307931364;101;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-7409;True;-7408.8266;1237.0;102;1.2640236117877066;101;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-7409;True;-7408.956;1141.0;94;1.1538481712341309;101;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-7409;True;-7401.6364;1189.0;98;1.21561662806198;101;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-251387;True;-251311.9481;661.0;54;0.6642750343307853;105;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-251387;True;-251300.8116;745.0;61;0.7426591259427369;105;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-251387;True;-251361.7009;565.0;46;0.562538814265281;105;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-251387;True;-251273.6676;781.0;64;0.7814163877628744;105;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-251387;True;-251216.1832;613.0;50;0.6038968060165644;105;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-95767;True;-95728.286;1213.0;100;1.3977603767998517;130;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-95767;True;-95765.3154;1093.0;90;1.2672224519774318;130;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-95767;True;-95761.6918;1921.0;159;2.2209510360844438;130;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-95767;True;-95762.5462;1177.0;97;1.373394870199263;130;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-95767;True;-95763.9888;1201.0;99;1.3856454398483038;130;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-111359;True;-111357.2199;2365.0;196;3.166554410941899;150;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-111359;True;-111355.71;2209.0;183;2.941396003123373;150;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-111359;True;-111354.284;2173.0;180;2.889454170130193;150;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-111359;True;-111339.5036;2293.0;190;3.085011078044772;150;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-111359;True;-111355.0158;2269.0;188;3.0616901479661465;150;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-33425;True;-33424.1199;1357.0;112;2.4507897747680545;202;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-33425;True;-33419.5193;1573.0;130;2.8057340211234987;202;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-33425;True;-33420.2173;1045.0;86;1.8607315057888627;202;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-33425;True;-33421.9935;1405.0;116;2.605629935394973;202;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-33425;True;-33421.9153;1369.0;113;2.4675719779916108;202;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-154424;True;-154423.733;1081.0;89;2.071042443159968;225;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-154424;True;-154420.7919;1117.0;92;2.162993605714292;225;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-154424;True;-154398.0604;985.0;81;1.844911077991128;225;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-154424;True;-154421.3556;1165.0;96;2.199536314699799;225;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-154424;True;-154412.7836;925.0;76;1.8156924569047987;225;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-69613;False;-69616.5221;44965.0;3746;120.0;280;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-69613;True;-69612.9946;26845.0;2236;72.67322970181704;280;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-69613;False;-69620.5528;44353.0;3695;120.0;280;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-69613;False;-69615.2437;44353.0;3695;120.0;280;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-69613;True;-69612.938;33961.0;2829;91.96513685956596;280;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-1678602;True;-1678598.5925;6493.0;540;22.41058204509318;442;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-1678602;True;-1678599.1551;7225.0;601;26.22666098410264;442;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-1678602;True;-1678580.4672;7105.0;591;28.3628649385646;442;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-1678602;True;-1678593.5251;6745.0;561;26.924308656249195;442;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-1678602;True;-1678594.4551;7969.0;663;31.842668728902936;442;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-67389;False;-67497.2744;17977.0;1497;120.0;666;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-67389;False;-67467.566;18085.0;1506;120.0;666;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-67389;False;-67489.1592;18049.0;1503;120.0;666;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-67389;False;-67477.7161;18037.0;1502;120.0;666;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-67389;False;-67469.9816;18037.0;1502;120.0;666;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-40210611;False;-40622866.8405;6061.0;504;120.0;2392;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-40210611;False;-40624033.5855;6073.0;505;120.0;2392;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-40210611;False;-40610405.5857;6145.0;511;120.0;2392;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-40210611;False;-40616001.6952;6133.0;510;120.0;2392;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;-40210611;False;-40619253.2321;6085.0;506;120.0;2392;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;0;False;-541200.8876;18517.0;1542;600.0;5000;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;0;False;-541373.432;18265.0;1521;600.0;5000;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;0;False;-541410.3257;18277.0;1522;600.0;5000;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;0;False;-541355.0175;18313.0;1525;600.0;5000;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Adaptive Mutation 2021 GA;0;False;-541175.6468;18469.0;1538;600.0;5000;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+Dynamic GA;-1203;True;-1197.0639;3.0;0;0.0007710591889917;22;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-1203;True;-1197.997;3.0;0;0.000778769608587;22;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-1203;True;-1200.5982;3.0;0;0.0007751667872071;22;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-1203;True;-1201.6184;11.0;4;0.0027964399196207;22;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-1203;True;-1201.7095;13.0;5;0.0033171251416206;22;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-395801;True;-395787.8244;318.0;51;0.1383990771137178;48;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-395801;True;-395780.7883;644.0;80;0.3059490919113159;48;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-395801;True;-395453.1572;2783.0;92;1.6408307389356196;48;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-395801;True;-395778.6091;770.0;78;0.3697810652665794;48;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-395801;True;-395796.2641;1550.0;94;0.8746706917881966;48;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-3886;True;-3882.8319;385.0;69;0.1791374171152711;51;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-3886;True;-3884.772;242.0;57;0.1089614438824355;51;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-3886;True;-3883.0069;396.0;71;0.1797899580560624;51;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-3886;True;-3878.6025;223.0;61;0.1002152478322386;51;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-3886;True;-3884.4628;231.0;65;0.1037018117494881;51;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-72348;True;-72313.5232;107.0;28;0.0496771330945193;52;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-72348;True;-72284.1674;97.0;24;0.0462092710658907;52;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-72348;True;-72233.6709;103.0;32;0.0475411219522357;52;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-72348;True;-72165.1667;127.0;32;0.0580080803483724;52;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-72348;True;-72339.4259;123.0;29;0.056303241290152;52;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-7656;True;-7655.8588;74385.0;552;67.88629400031641;70;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-7656;True;-7655.9454;23925.0;247;21.48533483967185;70;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-7656;True;-7653.7717;99065.0;684;90.20397567702456;70;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-7656;True;-7655.8836;81079.0;608;73.8609795239754;70;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-7656;True;-7655.8247;38384.0;323;34.59071617294103;70;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-6091;True;-6089.1569;213.0;53;0.1402451312169432;76;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-6091;True;-6090.429;104.0;26;0.0684460219927132;76;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-6091;True;-6080.8708;191.0;48;0.1262280619703233;76;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-6091;True;-6083.1783;290.0;59;0.1908512148074805;76;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-6091;True;-6086.6978;156.0;40;0.1025120741687715;76;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-1396943;True;-1395868.2214;176.0;45;0.1234374321065843;76;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-1396943;True;-1396850.9361;284.0;66;0.200630297884345;76;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-1396943;True;-1396938.8852;171.0;51;0.1191831910982728;76;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-1396943;True;-1395848.8247;126.0;41;0.0884881247766316;76;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-1396943;True;-1396269.1743;213.0;57;0.1491624927148223;76;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-7446;True;-7445.7456;183.0;57;0.1794593147933483;96;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-7446;True;-7444.9103;354.0;75;0.3480237680487335;96;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-7446;True;-7440.2851;370.0;83;0.3626089552417397;96;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-7446;True;-7436.4463;219.0;63;0.2146926010027527;96;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-7446;True;-7445.1374;242.0;53;0.2388566019944846;96;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-340635;True;-340628.3156;4939.0;154;6.395630017854273;100;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-340635;True;-340534.0471;756.0;126;0.707077250815928;100;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-340635;True;-340584.8478;2444.0;114;2.938812155276537;100;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-340635;True;-340374.6783;4199.0;142;5.211224338971078;100;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-340635;True;-340615.7542;27862.0;209;39.44838138995692;100;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-320942;True;-320932.2062;36853.0;291;62.09875529585406;100;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-320942;True;-320922.5612;67765.0;418;114.529981484171;100;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-320942;True;-320866.7211;43716.0;330;73.62652103696018;100;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-320942;True;-320901.6694;55628.0;324;93.56712156021968;100;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-320942;True;-320905.6098;56515.0;354;95.0344206932932;100;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-316429;True;-316381.2672;52340.0;391;75.14881217712536;100;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-316429;True;-316403.1908;49668.0;349;71.66902187280357;100;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-316429;False;-316496.0431;83456.0;496;120.0;100;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-316429;False;-316599.9967;83588.0;514;120.0;100;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-316429;True;-316415.745;77371.0;485;111.4333194801584;100;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-7409;True;-7407.9349;48086.0;308;73.81776597630233;101;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-7409;True;-7408.6587;26890.0;244;40.82261074101552;101;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-7409;True;-7408.7635;27760.0;238;41.9646567190066;101;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-7409;True;-7405.9024;26639.0;233;40.42293280502781;101;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-7409;True;-7406.8406;6349.0;187;9.041244649793953;101;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-251387;True;-251352.2369;5196.0;148;6.814319488126785;105;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-251387;True;-251350.373;591.0;88;0.5483860080130398;105;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-251387;True;-251375.5853;12698.0;189;17.96510363323614;105;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-251387;True;-251049.8229;1217.0;122;1.21910205995664;105;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-251387;True;-251266.1152;566.0;89;0.5245672697201371;105;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-95767;True;-95763.8776;31727.0;255;55.7131340992637;130;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-95767;True;-95765.6986;47146.0;358;83.64566563628614;130;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-95767;True;-95758.4608;21963.0;238;38.09776067780331;130;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-95767;True;-95762.5155;40407.0;308;70.13329186290503;130;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-95767;True;-95750.469;27867.0;231;48.201318798121065;130;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-111359;False;-111593.7355;58127.0;320;120.0;150;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-111359;False;-111622.7357;58029.0;308;120.0;150;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-111359;False;-111574.2858;58915.0;337;120.0;150;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-111359;False;-111620.6705;59225.0;329;120.0;150;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-111359;False;-111525.5308;59635.0;300;120.0;150;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-33425;True;-33417.7246;30218.0;299;83.98552715824917;202;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-33425;True;-33414.7311;24255.0;300;66.47878526384011;202;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-33425;True;-33414.5489;20930.0;297;56.998021270148456;202;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-33425;True;-33422.6402;22672.0;261;61.98818896478042;202;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-33425;True;-33419.1493;15330.0;225;41.43935366207734;202;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-154424;True;-154409.8072;3716.0;235;8.714293805882335;225;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-154424;True;-154423.6979;1068.0;232;1.9375985912047329;225;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-154424;True;-154420.3334;1161.0;239;2.1140531138516963;225;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-154424;True;-154419.0045;1043.0;227;1.896816146094352;225;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-154424;True;-154412.0045;1928.0;229;3.7730095479637376;225;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-69613;False;-70355.1241;31838.0;343;120.0;280;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-69613;False;-70652.9687;32240.0;350;120.0;280;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-69613;False;-70478.2138;32414.0;353;120.0;280;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-69613;False;-70686.9887;30109.0;305;120.0;280;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-69613;False;-70487.8182;31102.0;300;120.0;280;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-1678602;False;-1689069.0715;19259.0;477;120.0;442;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-1678602;False;-1693233.1409;18849.0;412;120.0;442;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-1678602;False;-1694217.7954;21601.0;361;120.0;442;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-1678602;False;-1691493.5625;22126.0;369;120.0;442;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-1678602;False;-1689251.7693;22219.0;497;120.0;442;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-67389;False;-68622.4672;15243.0;651;120.0;666;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-67389;False;-68836.6003;14161.0;531;120.0;666;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-67389;False;-68402.1708;13153.0;641;120.0;666;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-67389;False;-68533.0488;13140.0;743;120.0;666;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-67389;False;-68473.3027;15420.0;616;120.0;666;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-40210611;False;-40644932.8586;6171.0;1557;120.0;2392;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-40210611;False;-40657853.8474;6179.0;1425;120.0;2392;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-40210611;False;-40645848.0655;6161.0;1497;120.0;2392;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-40210611;False;-40631691.1178;6187.0;1459;120.0;2392;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+Dynamic GA;-40210611;False;-40640212.7121;6149.0;1432;120.0;2392;None;{'alpha': 0.7, 'beta': 1.4, 'gamma': 1.24, 'a': 1.67, 'b': 0.69, 'mutation_operator': 'k-reverse', 'crossover_operator': 'ordered crossover(OX)'}
+GABE 1;-1203;True;-1196.4103;15.0;0;0.0062680337578058;22;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-1203;True;-1197.7307;15.0;0;0.0066374260932207;22;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-1203;True;-1198.8986;15.0;0;0.0060559781268239;22;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-1203;True;-1196.0519;15.0;0;0.0060244021005928;22;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-1203;True;-1198.1353;15.0;0;0.005970471072942;22;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-395801;True;-395038.4024;645.0;45;0.3022404192015528;48;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-395801;True;-395493.0386;603.0;42;0.2910388209857046;48;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-395801;True;-395686.6116;561.0;39;0.2680457392707467;48;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-395801;True;-395517.2416;491.0;34;0.2344515142031014;48;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-395801;True;-395621.9531;491.0;34;0.2277027852833271;48;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-3886;True;-3882.7409;379.0;26;0.2154993489384651;51;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-3886;True;-3885.9909;351.0;24;0.2033156980760395;51;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-3886;True;-3881.0133;267.0;18;0.1565541736781597;51;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-3886;True;-3878.5093;393.0;27;0.2217579591087997;51;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-3886;True;-3885.71;183.0;12;0.1084930328652262;51;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-72348;True;-72219.5423;155.0;10;0.0850705448538065;52;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-72348;True;-72229.6207;71.0;4;0.0407997332513332;52;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-72348;True;-72329.3798;141.0;9;0.0763433519750833;52;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-72348;True;-72220.2638;113.0;7;0.062034236267209;52;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-72348;True;-72001.1204;99.0;6;0.0513173611834645;52;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-7656;True;-7655.9025;1415.0;100;0.928245577029884;70;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-7656;True;-7654.1778;1191.0;84;0.7746336762793362;70;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-7656;True;-7654.0004;2087.0;148;1.3288134611211715;70;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-7656;True;-7654.8868;1471.0;104;0.9455964351072907;70;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-7656;True;-7655.7805;1667.0;118;1.0596141079440713;70;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-6091;True;-6084.1667;99.0;6;0.0763509459793567;76;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-6091;True;-6088.7289;225.0;15;0.1769800838083028;76;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-6091;True;-6090.6151;295.0;20;0.2552904887124896;76;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-6091;True;-6088.5286;197.0;13;0.1755554880946874;76;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-6091;True;-6088.8695;225.0;15;0.1692637829110026;76;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-1396943;True;-1396774.0538;127.0;8;0.1136423731222748;76;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-1396943;True;-1395732.8676;127.0;8;0.1080925902351737;76;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-1396943;True;-1396799.7469;253.0;17;0.2039719717577099;76;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-1396943;True;-1396771.4123;127.0;8;0.1145357140339911;76;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-1396943;True;-1396520.5187;281.0;19;0.2599214077927172;76;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-7446;True;-7444.5419;323.0;22;0.3801531847566366;96;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-7446;True;-7437.6782;351.0;24;0.3914121063426137;96;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-7446;True;-7441.7942;407.0;28;0.4602733999490738;96;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-7446;True;-7444.8661;351.0;24;0.3867853740230202;96;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-7446;True;-7445.9498;225.0;15;0.2457378027029335;96;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-340635;True;-340589.2442;967.0;68;0.9650588100776076;100;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-340635;True;-340630.8205;729.0;51;0.7335387403145432;100;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-340635;True;-340575.8257;827.0;58;0.8188919741660357;100;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-340635;True;-340537.4762;1107.0;78;1.0787513609975576;100;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-340635;True;-340627.1833;813.0;57;0.7996364762075245;100;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-320942;True;-320875.8727;1625.0;115;1.993237310089171;100;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-320942;True;-320860.5378;1751.0;124;1.9781558676622808;100;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-320942;True;-320929.8529;1079.0;76;1.203804453834891;100;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-320942;True;-320910.4388;1275.0;90;1.43093956168741;100;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-320942;True;-320936.0193;1555.0;110;1.7202868480235338;100;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-316429;True;-316370.9128;1779.0;126;1.8520804401487112;100;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-316429;True;-316417.7008;1947.0;138;1.9245524578727784;100;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-316429;True;-316387.9936;1695.0;120;1.686325638089329;100;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-316429;True;-316412.785;1765.0;125;1.7543074330314994;100;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-316429;True;-316423.9471;2017.0;143;1.961581618990749;100;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-7409;True;-7407.632;1121.0;79;1.1271790289320052;101;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-7409;True;-7407.8056;659.0;46;0.6576532488688827;101;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-7409;True;-7408.8148;869.0;61;0.8664519530721009;101;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-7409;True;-7408.0122;1191.0;84;1.190849828068167;101;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-7409;True;-7408.5194;1765.0;125;1.7632406149059534;101;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-251387;True;-251352.8127;883.0;62;0.8259789729490876;105;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-251387;True;-251272.6868;575.0;40;0.5598733043298125;105;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-251387;True;-251134.907;701.0;49;0.6650042603723705;105;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-251387;True;-251374.9993;897.0;63;0.8482236252166331;105;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-251387;True;-251370.2759;631.0;44;0.5948709580115974;105;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-95767;True;-95757.1586;1471.0;104;1.7884593857452271;130;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-95767;True;-95742.0665;1779.0;126;2.2335072779096663;130;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-95767;True;-95760.7268;1667.0;118;1.9821164850145576;130;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-95767;True;-95757.3578;1443.0;102;1.677394320257008;130;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-95767;True;-95759.6008;1695.0;120;1.931349002290517;130;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-111359;True;-111354.5371;2311.0;164;3.081894509959966;150;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-111359;True;-111352.7187;2857.0;203;3.743586747907102;150;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-111359;True;-111354.9505;2269.0;161;3.016420992091298;150;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-111359;True;-111357.4656;2619.0;186;3.4801526409573853;150;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-111359;True;-111349.0848;2885.0;205;3.7839894890785217;150;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-33425;True;-33423.4202;1709.0;121;3.137931019999087;202;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-33425;True;-33420.4702;1429.0;101;2.549458973109722;202;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-33425;True;-33412.0491;1723.0;122;3.093059706036001;202;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-33425;True;-33424.3956;1583.0;112;2.848059523385018;202;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-33425;True;-33424.4093;1401.0;99;2.497638924047351;202;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-154424;True;-154418.1787;1009.0;71;1.917727196123451;225;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-154424;True;-154420.052;1107.0;78;2.053360063116997;225;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-154424;True;-154421.245;1289.0;91;2.4931246018968523;225;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-154424;True;-154413.1968;1275.0;90;2.383272759616375;225;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-154424;True;-154418.9753;1163.0;82;2.191728000994772;225;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-69613;False;-69617.1544;44017.0;3143;120.0;280;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-69613;False;-69622.0322;43849.0;3131;120.0;280;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-69613;False;-69618.2878;43835.0;3130;120.0;280;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-69613;True;-69612.8702;39243.0;2802;107.85168272117151;280;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-69613;True;-69612.0799;46677.0;3333;117.79410190694034;280;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-1678602;True;-1678592.3369;7491.0;534;25.865238942205902;442;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-1678602;True;-1678548.1913;7799.0;556;27.17091281199828;442;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-1678602;True;-1678588.7118;8863.0;632;30.980844161007557;442;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-1678602;True;-1678593.4424;7337.0;523;25.370286938734356;442;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-1678602;True;-1678533.1548;8009.0;571;27.649456802289933;442;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-67389;False;-67512.8696;18089.0;1291;120.0;666;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-67389;False;-67493.1076;18061.0;1289;120.0;666;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-67389;False;-67538.649;18075.0;1290;120.0;666;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-67389;False;-67544.6805;18047.0;1288;120.0;666;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-67389;False;-67525.8433;17837.0;1273;120.0;666;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-40210611;False;-40658253.5277;6049.0;431;120.0;2392;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-40210611;False;-40653866.689;6007.0;428;120.0;2392;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-40210611;False;-40633140.856;6077.0;433;120.0;2392;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-40210611;False;-40627529.6862;6161.0;439;120.0;2392;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 1;-40210611;False;-40660231.2643;6133.0;437;120.0;2392;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-reverse'}
+GABE 2;-1203;True;-1197.7555;25.0;0;0.0059471148997545;22;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-1203;True;-1194.7869;25.0;0;0.0070772590115666;22;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-1203;True;-1200.8773;25.0;0;0.005733189638704;22;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-1203;True;-1196.4575;25.0;0;0.005904349964112;22;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-1203;True;-1195.6166;25.0;0;0.006300285924226;22;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-395801;True;-395746.2541;985.0;40;0.2805781275965273;48;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-395801;True;-395656.0929;1489.0;61;0.4285789718851447;48;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-395801;True;-395778.9333;1441.0;59;0.4156212280504405;48;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-395801;True;-395375.1989;1009.0;41;0.2894125361926853;48;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-395801;True;-395782.8651;865.0;35;0.252422247081995;48;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-3886;True;-3884.4683;625.0;25;0.2275024098344147;51;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-3886;True;-3885.4863;793.0;32;0.2803402589634061;51;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-3886;True;-3885.8382;721.0;29;0.2625355306081474;51;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-3886;True;-3885.1623;769.0;31;0.2711557266302407;51;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-3886;True;-3885.643;697.0;28;0.2498889877460897;51;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-72348;True;-72228.5647;169.0;6;0.0592367192730307;52;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-72348;True;-72221.1115;145.0;5;0.0498893866315484;52;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-72348;True;-72346.3354;481.0;19;0.1556531619280576;52;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-72348;True;-72246.8112;217.0;8;0.0678117182105779;52;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-72348;True;-72327.7038;289.0;11;0.0920208767056465;52;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-7656;True;-7655.7826;7273.0;302;2.8729890235699718;70;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-7656;True;-7655.9177;4633.0;192;1.85204157512635;70;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-7656;True;-7655.7384;3673.0;152;1.4239681507460773;70;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-7656;True;-7655.7488;4657.0;193;1.8105537611991167;70;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-7656;True;-7655.9544;3697.0;153;1.428682297002524;70;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-6091;True;-6090.8505;385.0;15;0.1845760233700275;76;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-6091;True;-6089.0301;385.0;15;0.1827998021617531;76;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-6091;True;-6078.6204;529.0;21;0.2935471883974969;76;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-6091;True;-6090.6825;553.0;22;0.2389694359153509;76;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-6091;True;-6089.765;433.0;17;0.1931769750081002;76;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-1396943;True;-1395835.2703;409.0;16;0.2058549546636641;76;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-1396943;True;-1396529.4744;553.0;22;0.2690049558877945;76;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-1396943;True;-1396857.8287;169.0;6;0.0931245349347591;76;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-1396943;True;-1396912.9078;457.0;18;0.2175369742326438;76;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-1396943;True;-1396920.6339;529.0;21;0.2752493591979146;76;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-7446;True;-7439.4955;625.0;25;0.4117646082304418;96;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-7446;True;-7445.3498;1345.0;55;0.8865292551927269;96;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-7446;True;-7444.7829;889.0;36;0.5947687323205173;96;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-7446;True;-7445.9639;529.0;21;0.3711152160540223;96;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-7446;True;-7445.633;697.0;28;0.465198369231075;96;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-340635;True;-340630.8941;2713.0;112;1.6406517359428108;100;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-340635;True;-340628.2917;1993.0;82;1.2004654300399125;100;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-340635;True;-340632.3612;2905.0;120;1.7354656979441645;100;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-340635;True;-340546.3587;1825.0;75;1.1150496592745185;100;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-340635;True;-340633.5007;1945.0;80;1.178825966082513;100;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-320942;True;-320933.7405;4585.0;190;3.1918030907399952;100;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-320942;True;-320821.0611;7153.0;297;4.959376933053136;100;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-320942;True;-320937.6225;4753.0;197;3.314723168965429;100;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-320942;True;-320927.4469;5425.0;225;3.753592174965888;100;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-320942;True;-320940.4982;5353.0;222;3.705906041897833;100;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-316429;True;-316425.8075;4801.0;199;2.924567187204957;100;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-316429;True;-316336.3338;9625.0;400;5.830459496937692;100;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-316429;True;-316415.7686;8497.0;353;5.106426964979619;100;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-316429;True;-316418.219;7369.0;306;4.451268361415714;100;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-316429;True;-316371.542;6529.0;271;3.951674077659845;100;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-7409;True;-7408.7431;3817.0;158;2.37345017073676;101;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-7409;True;-7408.6163;3481.0;144;2.1869278280064464;101;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-7409;True;-7408.986;3217.0;133;2.0265715760178864;101;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-7409;True;-7408.8997;3817.0;158;2.379739347379654;101;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-7409;True;-7407.6729;4369.0;181;2.734538579825312;101;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-251387;True;-251252.4879;1945.0;80;1.1633177669718862;105;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-251387;True;-251386.3326;1633.0;67;0.9699198170565068;105;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-251387;True;-251251.2065;2017.0;83;1.247712078038603;105;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-251387;True;-251354.123;2017.0;83;1.2027540942654014;105;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-251387;True;-251346.3304;2641.0;109;1.5946524599567056;105;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-95767;True;-95755.251;3673.0;152;2.637025648262352;130;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-95767;True;-95762.0339;4417.0;183;3.2133371611125767;130;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-95767;True;-95762.2168;4801.0;199;3.411087510176003;130;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-95767;True;-95758.0194;3361.0;139;2.4351925156079237;130;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-95767;True;-95765.4717;3337.0;138;2.454174897167832;130;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-111359;True;-111357.7087;10705.0;445;8.92219675006345;150;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-111359;True;-111358.148;12841.0;534;10.651848294306546;150;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-111359;True;-111352.8377;7513.0;312;6.279807053972036;150;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-111359;True;-111357.2458;7177.0;298;5.979042206890881;150;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-111359;True;-111357.7236;10249.0;426;8.53383560758084;150;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-33425;True;-33424.2409;3481.0;144;3.978835687972605;202;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-33425;True;-33421.5094;4177.0;173;4.675848385784775;202;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-33425;True;-33423.0865;3433.0;142;3.822731463704258;202;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-33425;True;-33424.4785;4177.0;173;4.648771735839546;202;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-33425;True;-33417.2361;3577.0;148;3.977560471743345;202;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-154424;True;-154415.0518;2689.0;111;3.139710009098053;225;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-154424;True;-154417.6218;2761.0;114;3.22919216286391;225;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-154424;True;-154417.1713;2785.0;115;3.299097780138254;225;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-154424;True;-154422.0935;2521.0;104;2.9820969561114907;225;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-154424;True;-154422.0415;3505.0;145;4.145502861589193;225;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-69613;False;-69778.2605;77329.0;3221;120.0;280;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-69613;False;-69777.9911;76945.0;3205;120.0;280;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-69613;False;-69739.1491;68929.0;2871;120.0;280;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-69613;False;-69788.949;71857.0;2993;120.0;280;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-69613;False;-69763.7176;77713.0;3237;120.0;280;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-1678602;True;-1678600.2439;32425.0;1350;72.24590562889352;442;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-1678602;True;-1678553.4824;30937.0;1288;69.02360383793712;442;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-1678602;True;-1678598.1574;36385.0;1515;81.20421036100015;442;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-1678602;True;-1678601.8171;35065.0;1460;78.18118740804493;442;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-1678602;True;-1678600.2935;30529.0;1271;67.98995211208239;442;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-67389;False;-67868.5652;27457.0;1143;120.0;666;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-67389;False;-67924.7376;27409.0;1141;120.0;666;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-67389;False;-67832.2405;27457.0;1143;120.0;666;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-67389;False;-67836.3089;27433.0;1142;120.0;666;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-67389;False;-67864.7515;27457.0;1143;120.0;666;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-40210611;False;-40698463.9309;8497.0;353;120.0;2392;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-40210611;False;-40714912.546;8449.0;351;120.0;2392;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-40210611;False;-40700321.4621;8425.0;350;120.0;2392;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-40210611;False;-40717087.0624;8473.0;352;120.0;2392;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;-40210611;False;-40715841.0147;8377.0;348;120.0;2392;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;0;False;-544310.5889;11775.0;840;600.0;5000;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;0;False;-544133.1072;11803.0;842;600.0;5000;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;0;False;-544205.3738;11733.0;837;600.0;5000;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;0;False;-544132.7013;12503.0;892;600.0;5000;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+GABE 2;0;False;-544024.1351;12517.0;893;600.0;5000;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-exchange', 'global_mutation_operator': 'k-reverse'}
+SD-RLS* GA;-1203;True;-1200.9459;2.0;0;0.0004992489702999;22;None;{'R': 31, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-1203;True;-1198.0157;2.0;0;0.0004861569032073;22;None;{'R': 31, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-1203;True;-1198.4167;2.0;0;0.0004899487830698;22;None;{'R': 31, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-1203;True;-1198.3357;2.0;0;0.0004920749925076;22;None;{'R': 31, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-1203;True;-1196.8115;2.0;0;0.000491043087095;22;None;{'R': 31, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-395801;True;-395630.7172;200.0;198;0.0854283669032156;48;None;{'R': 55, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-395801;True;-395578.6908;315.0;313;0.1339991982094943;48;None;{'R': 55, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-395801;True;-395681.375;234.0;232;0.0991221386939287;48;None;{'R': 55, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-395801;True;-395712.7191;268.0;266;0.1135351401753723;48;None;{'R': 55, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-395801;True;-395522.2795;195.0;193;0.0827742270193994;48;None;{'R': 55, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-3886;True;-3885.8115;272.0;270;0.1363352318294346;51;None;{'R': 58, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-3886;True;-3885.1045;155.0;153;0.077761695254594;51;None;{'R': 58, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-3886;True;-3885.518;261.0;259;0.1309215691871941;51;None;{'R': 58, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-3886;True;-3878.7002;211.0;209;0.1055080317892134;51;None;{'R': 58, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-3886;True;-3884.3519;208.0;206;0.1039005792699754;51;None;{'R': 58, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-72348;True;-72303.5625;146.0;144;0.0663132960908114;52;None;{'R': 60, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-72348;True;-72316.643;102.0;100;0.0459005599841475;52;None;{'R': 60, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-72348;True;-72293.0552;151.0;149;0.0685366736724972;52;None;{'R': 60, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-72348;True;-72242.9124;80.0;78;0.0362580618821084;52;None;{'R': 60, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-72348;True;-72301.8092;90.0;88;0.04074571095407;52;None;{'R': 60, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-7656;True;-7654.673;648.0;646;0.3808330800384283;70;None;{'R': 77, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-7656;True;-7655.904;795.0;793;0.4670967650599777;70;None;{'R': 77, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-7656;True;-7652.3007;834.0;832;0.4898907858878374;70;None;{'R': 77, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-7656;True;-7655.9853;577.0;575;0.3401455469429493;70;None;{'R': 77, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-7656;True;-7649.9064;845.0;843;0.4957324699498713;70;None;{'R': 77, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-6091;True;-6090.056;198.0;196;0.1266378620639443;76;None;{'R': 83, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-6091;True;-6090.0662;128.0;126;0.0816475902684032;76;None;{'R': 83, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-6091;True;-6090.5112;175.0;173;0.1119878790341317;76;None;{'R': 83, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-6091;True;-6090.2508;164.0;162;0.1049612239003181;76;None;{'R': 83, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-6091;True;-6078.3717;80.0;78;0.0513702589087188;76;None;{'R': 83, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-1396943;True;-1396727.0671;173.0;171;0.1195005197077989;76;None;{'R': 83, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-1396943;True;-1393269.1116;144.0;142;0.099182944279164;76;None;{'R': 83, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-1396943;True;-1395930.8548;149.0;147;0.1029544146731495;76;None;{'R': 83, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-1396943;True;-1396702.0034;133.0;131;0.092597828246653;76;None;{'R': 83, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-1396943;True;-1396575.9464;218.0;216;0.1505214939825236;76;None;{'R': 83, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-7446;True;-7444.3316;162.0;160;0.1563400728628039;96;None;{'R': 104, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-7446;True;-7441.0173;151.0;149;0.1458417209796607;96;None;{'R': 104, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-7446;True;-7442.4133;191.0;189;0.185609376989305;96;None;{'R': 104, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-7446;True;-7438.6564;152.0;150;0.1472174269147217;96;None;{'R': 104, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-7446;True;-7444.9981;264.0;262;0.2552551389671862;96;None;{'R': 104, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-340635;True;-340619.0977;508.0;506;0.4634168432094157;100;None;{'R': 107, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-340635;True;-340488.3205;560.0;558;0.5121001801453531;100;None;{'R': 107, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-340635;True;-340403.2103;467.0;465;0.4262590296566486;100;None;{'R': 107, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-340635;True;-340633.5007;468.0;466;0.4271944118663668;100;None;{'R': 107, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-340635;True;-340544.9652;538.0;536;0.4916353281587362;100;None;{'R': 107, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-320942;True;-320939.7689;738.0;736;0.7734536998905241;100;None;{'R': 107, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-320942;True;-320925.7652;583.0;581;0.6133271176367998;100;None;{'R': 107, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-320942;True;-320914.4018;860.0;858;0.9010268077254296;100;None;{'R': 107, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-320942;True;-320922.2604;750.0;748;0.7863987097516656;100;None;{'R': 107, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-320942;True;-320865.8709;579.0;577;0.6058694687671959;100;None;{'R': 107, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-316429;True;-316221.7564;883.0;881;0.8097586538642645;100;None;{'R': 107, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-316429;True;-316421.6901;900.0;898;0.8279335279949009;100;None;{'R': 107, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-316429;True;-316359.0658;887.0;885;0.8129563699476421;100;None;{'R': 107, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-316429;True;-316326.5779;1111.0;1109;1.014440055936575;100;None;{'R': 107, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-316429;True;-316096.1731;1068.0;1066;0.9755492517724632;100;None;{'R': 107, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-7409;True;-7408.3552;476.0;474;0.4435442630201578;101;None;{'R': 108, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-7409;True;-7408.868;525.0;523;0.4896176611073315;101;None;{'R': 108, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-7409;True;-7408.1347;863.0;861;0.8044440830126405;101;None;{'R': 108, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-7409;True;-7408.9494;854.0;852;0.7987272860482335;101;None;{'R': 108, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-7409;True;-7408.2269;582.0;580;0.5441676094196737;101;None;{'R': 108, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-251387;True;-251319.621;498.0;496;0.45232341485098;105;None;{'R': 112, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-251387;True;-251304.8875;294.0;292;0.2648569270968437;105;None;{'R': 112, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-251387;True;-251379.7357;348.0;346;0.3173838499933481;105;None;{'R': 112, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-251387;True;-250918.1943;384.0;382;0.3466996368952095;105;None;{'R': 112, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-251387;True;-251356.2302;413.0;411;0.3751155519858002;105;None;{'R': 112, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-95767;True;-95763.9284;690.0;688;0.7425961340777576;130;None;{'R': 137, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-95767;True;-95766.6812;650.0;648;0.6984989629127085;130;None;{'R': 137, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-95767;True;-95757.3661;834.0;832;0.8964427318423986;130;None;{'R': 137, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-95767;True;-95766.9474;786.0;784;0.8442497211508453;130;None;{'R': 137, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-95767;True;-95747.7079;626.0;624;0.6723876283504069;130;None;{'R': 137, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-111359;True;-111358.7815;1035.0;1033;1.2968914830125868;150;None;{'R': 157, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-111359;True;-111353.1098;1353.0;1351;1.6859857309609652;150;None;{'R': 157, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-111359;True;-111347.129;1348.0;1346;1.690663089044392;150;None;{'R': 157, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-111359;True;-111340.6274;1349.0;1347;1.6942206006497145;150;None;{'R': 157, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-111359;True;-111351.6652;1393.0;1391;1.7446235963143408;150;None;{'R': 157, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-33425;True;-33422.2841;725.0;723;1.220879630651325;202;None;{'R': 210, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-33425;True;-33424.3924;802.0;800;1.3522820752114058;202;None;{'R': 210, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-33425;True;-33423.5659;693.0;691;1.1694026850163937;202;None;{'R': 210, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-33425;True;-33423.0446;622.0;620;1.050353671889752;202;None;{'R': 210, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-33425;True;-33420.1448;762.0;760;1.2827475247904658;202;None;{'R': 210, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-154424;True;-154387.6483;622.0;620;1.0947555592283609;225;None;{'R': 232, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-154424;True;-154412.4259;713.0;711;1.2581538148224354;225;None;{'R': 232, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-154424;True;-154421.4882;561.0;559;0.9922413169406354;225;None;{'R': 232, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-154424;True;-154422.6789;711.0;709;1.2532083112746475;225;None;{'R': 232, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-154424;True;-154421.0924;732.0;730;1.2969670901075006;225;None;{'R': 232, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-69613;True;-69612.9073;21135.0;21133;56.28632999910042;280;None;{'R': 287, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-69613;True;-69612.9522;25223.0;25221;66.92647352116182;280;None;{'R': 287, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-69613;True;-69612.9075;16023.0;16021;42.42971103917807;280;None;{'R': 287, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-69613;True;-69611.8395;18811.0;18809;49.82015408016741;280;None;{'R': 287, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-69613;True;-69612.9105;13756.0;13754;36.42617131303996;280;None;{'R': 287, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-1678602;True;-1678600.0755;4200.0;4198;16.4261455363594;442;None;{'R': 449, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-1678602;True;-1678577.2416;3697.0;3695;14.445979458279908;442;None;{'R': 449, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-1678602;True;-1678567.0804;4120.0;4118;16.11178498202935;442;None;{'R': 449, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-1678602;True;-1678600.2317;3976.0;3974;15.522797727026044;442;None;{'R': 449, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-1678602;True;-1678563.3001;4500.0;4498;17.571877350565046;442;None;{'R': 449, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-67389;True;-67388.7656;14514.0;14512;95.79950388008729;666;None;{'R': 674, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-67389;True;-67388.5588;13968.0;13966;91.89834447484463;666;None;{'R': 674, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-67389;True;-67388.8007;18059.0;18057;118.89361708890648;666;None;{'R': 674, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-67389;True;-67388.2347;13407.0;13405;88.62009837990627;666;None;{'R': 674, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-67389;True;-67386.048;13449.0;13447;88.91199451498687;666;None;{'R': 674, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-40210611;False;-40510263.9358;6366.0;6364;120.0;2392;None;{'R': 2399, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-40210611;False;-40503858.3216;6334.0;6332;120.0;2392;None;{'R': 2399, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-40210611;False;-40501897.8002;6346.0;6344;120.0;2392;None;{'R': 2399, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-40210611;False;-40502568.0138;6350.0;6348;120.0;2392;None;{'R': 2399, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;-40210611;False;-40510080.0115;6371.0;6369;120.0;2392;None;{'R': 2399, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;0;False;-539240.6466;18993.0;18991;600.0;5000;None;{'R': 5001, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;0;False;-539561.7377;18095.0;18093;600.0;5000;None;{'R': 5001, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;0;False;-539211.3942;18945.0;18943;600.0;5000;None;{'R': 5001, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;0;False;-539266.9678;18983.0;18981;600.0;5000;None;{'R': 5001, 'mutation_operator': 'k-reverse'}
+SD-RLS* GA;0;False;-539293.7638;19060.0;19058;600.0;5000;None;{'R': 5001, 'mutation_operator': 'k-reverse'}
+Standard GA;-1203;True;-1194.9791;320.0;0;0.0417192447930574;22;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-1203;True;-1195.4978;320.0;0;0.0386934462003409;22;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-1203;True;-1194.5554;320.0;0;0.0386640029028058;22;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-1203;True;-1194.5325;320.0;0;0.038882341235876;22;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-1203;True;-1194.9259;320.0;0;0.0387576431967318;22;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-395801;True;-395800.9416;5480.0;43;2.96694578230381;48;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-395801;True;-395739.575;5600.0;44;3.0319242267869413;48;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-395801;True;-395722.743;7280.0;58;3.968539990950376;48;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-395801;True;-395741.3231;5360.0;42;2.901464148890227;48;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-395801;True;-395702.2993;5720.0;45;3.1026860396377742;48;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-3886;True;-3884.8983;3440.0;26;1.8596547627821565;51;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-3886;True;-3885.8826;4400.0;34;2.449734087102115;51;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-3886;True;-3880.8993;4760.0;37;2.661419934593141;51;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-3886;True;-3879.7775;3440.0;26;1.9667997402139008;51;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-3886;True;-3885.263;3800.0;29;2.2156953210942447;51;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-72348;True;-72347.2116;1520.0;10;0.7922701449133456;52;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-72348;True;-72287.0702;2000.0;14;1.0734131881035864;52;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-72348;True;-72290.0195;1400.0;9;0.7210636688396335;52;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-72348;True;-72297.6347;2360.0;17;1.2858758489601314;52;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-72348;True;-72271.8737;1520.0;10;0.7920306380838156;52;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-7656;True;-7655.7001;15920.0;130;12.351562271360308;70;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-7656;True;-7654.5109;14840.0;121;11.494853656738997;70;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-7656;True;-7654.8894;15200.0;124;11.797487263102084;70;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-7656;True;-7655.2689;16040.0;131;12.43169071804732;70;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-7656;True;-7651.078;14480.0;118;11.385968594811857;70;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-6091;True;-6086.1659;3320.0;25;2.6625734358094637;76;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-6091;True;-6090.9655;2120.0;15;1.649914245121181;76;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-6091;True;-6090.8604;2960.0;22;2.3617363781668246;76;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-6091;True;-6089.73;3440.0;26;2.760594964027405;76;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-6091;True;-6082.0777;3560.0;27;2.869031651876867;76;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-1396943;True;-1396311.72;3560.0;27;3.0971699613146484;76;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-1396943;True;-1396512.9496;2960.0;22;2.538678160868585;76;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-1396943;True;-1395808.9783;1280.0;8;1.0085844029672444;76;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-1396943;True;-1394893.265;2720.0;20;2.333618001081049;76;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-1396943;True;-1396502.3585;3320.0;25;2.873657144140452;76;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-7446;True;-7440.4332;4520.0;35;5.549270845018327;96;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-7446;True;-7444.3315;4880.0;38;6.013924178201705;96;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-7446;True;-7444.7296;6800.0;54;8.46858149021864;96;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-7446;True;-7443.7075;6560.0;52;8.158087930176407;96;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-7446;True;-7443.6249;5480.0;43;6.780727447010577;96;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-340635;True;-340255.5743;11840.0;96;14.229580836836249;100;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-340635;True;-340534.7208;12920.0;105;15.51500917924568;100;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-340635;True;-340589.1104;11600.0;94;13.89036265015602;100;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-340635;True;-340627.705;14000.0;114;16.83855259185657;100;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-340635;True;-340396.3236;10160.0;82;12.174566444009542;100;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-320942;True;-320936.4759;16880.0;138;23.271684704814103;100;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-320942;True;-320931.2693;18920.0;155;26.01500304788351;100;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-320942;True;-320932.382;18200.0;149;25.093224784825;100;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-320942;True;-320883.1031;17960.0;147;24.724718987941745;100;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-320942;True;-320941.5482;17600.0;144;24.30361339077353;100;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-316429;True;-316386.6206;20960.0;172;25.31645165476948;100;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-316429;True;-316412.13;22520.0;185;27.08352678129449;100;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-316429;True;-316405.4204;22040.0;181;26.511321207974103;100;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-316429;True;-316419.0619;21080.0;173;25.319264004006985;100;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-316429;True;-316421.1749;20960.0;172;25.48559384699911;100;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-7409;True;-7408.1817;15920.0;130;19.316264981869608;101;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-7409;True;-7408.6539;15920.0;130;19.33868450205773;101;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-7409;True;-7408.2336;16280.0;133;19.77765163499862;101;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-7409;True;-7408.8242;13760.0;112;16.726111008785665;101;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-7409;True;-7407.5435;16640.0;136;20.25910507515073;101;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-251387;True;-251379.7582;10280.0;83;12.104672143235804;105;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-251387;True;-251342.9391;9800.0;79;11.485778585076332;105;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-251387;True;-251375.3029;10160.0;82;11.896452030166984;105;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-251387;True;-251373.1321;9800.0;79;11.488250606693327;105;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-251387;True;-251265.4476;9680.0;78;11.356028604786845;105;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-95767;True;-95736.3426;18200.0;149;25.785414434969425;130;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-95767;True;-95761.3493;19280.0;158;27.38160424819216;130;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-95767;True;-95762.2217;20000.0;164;28.41252671694383;130;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-95767;True;-95766.9917;17240.0;141;24.44401574600488;130;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-95767;True;-95752.1227;19160.0;157;27.168471611104906;130;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-111359;True;-111350.4555;27440.0;226;45.71073045581579;150;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-111359;True;-111358.5874;30200.0;249;50.36945841694251;150;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-111359;True;-111356.3675;28160.0;232;46.986701401881874;150;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-111359;True;-111336.4637;29120.0;240;48.60090981470421;150;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-111359;True;-111355.228;25760.0;212;42.925401298794895;150;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-33425;True;-33424.3974;19880.0;163;44.70716431783512;202;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-33425;True;-33420.0901;21800.0;179;48.86462233494967;202;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-33425;True;-33419.9874;21080.0;173;47.147339368239045;202;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-33425;True;-33420.7655;23000.0;189;51.51820084312931;202;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-33425;True;-33417.7363;22400.0;184;50.11044615274295;202;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-154424;True;-154423.5318;19520.0;160;45.76517098583281;225;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-154424;True;-154400.8253;19160.0;157;44.86252445913851;225;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-154424;True;-154421.0511;19640.0;161;45.87037679925561;225;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-154424;True;-154423.0928;19280.0;158;44.85251662693918;225;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-154424;True;-154419.538;20840.0;171;48.88489944068715;225;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-69613;False;-70221.2988;38360.0;317;120.0;280;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-69613;False;-70235.3619;38120.0;315;120.0;280;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-69613;False;-70282.2737;37760.0;312;120.0;280;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-69613;False;-70314.0774;34160.0;282;120.0;280;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-69613;False;-70371.6987;34040.0;281;120.0;280;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-1678602;False;-1696953.0192;26600.0;219;120.0;442;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-1678602;False;-1694864.7899;26600.0;219;120.0;442;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-1678602;False;-1695674.8135;26480.0;218;120.0;442;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-1678602;False;-1696030.5269;24560.0;202;120.0;442;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-1678602;False;-1696865.0427;23120.0;190;120.0;442;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-67389;False;-69779.1398;13760.0;112;120.0;666;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-67389;False;-69676.3233;13760.0;112;120.0;666;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-67389;False;-69757.2796;14120.0;115;120.0;666;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-67389;False;-69584.1903;15320.0;125;120.0;666;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-67389;False;-69675.9775;15200.0;124;120.0;666;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-40210611;False;-41053022.5102;4880.0;38;120.0;2392;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-40210611;False;-41060296.2997;4880.0;38;120.0;2392;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-40210611;False;-41035729.3232;5000.0;39;120.0;2392;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-40210611;False;-41050333.3544;5000.0;39;120.0;2392;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Standard GA;-40210611;False;-41059383.9854;5000.0;39;120.0;2392;None;{'population_size': 100, 'tournament_size': 2, 'pc': 0.2, 'pm': 1, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-1203;True;-1198.2017;20.0;0;0.0049683949910104;22;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.13636363636363635, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-1203;True;-1199.7543;20.0;0;0.0052552227862179;22;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.13636363636363635, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-1203;True;-1198.15;20.0;0;0.004920647945255;22;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.13636363636363635, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-1203;True;-1196.9573;20.0;0;0.0052464460022747;22;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.13636363636363635, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-1203;True;-1197.3234;20.0;0;0.0061133541166782;22;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.13636363636363635, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-395801;True;-395782.7788;533.0;27;0.2398051689378917;48;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.0625, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-395801;True;-395600.9768;685.0;35;0.3084639478474855;48;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.0625, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-395801;True;-395564.6713;590.0;30;0.264826213940978;48;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.0625, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-395801;True;-395559.1593;381.0;19;0.1723746480420231;48;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.0625, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-395801;True;-395773.7064;742.0;38;0.3350376798771322;48;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.0625, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-3886;True;-3885.2576;229.0;11;0.1197613049298524;51;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.058823529411764705, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-3886;True;-3883.4593;400.0;20;0.2066149190068245;51;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.058823529411764705, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-3886;True;-3885.7525;324.0;16;0.1528105568140745;51;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.058823529411764705, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-3886;True;-3883.2097;362.0;18;0.1669491729699075;51;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.058823529411764705, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-3886;True;-3883.8307;305.0;15;0.1403583730570972;51;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.058823529411764705, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-72348;True;-72325.3007;191.0;9;0.0913526532240212;52;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.057692307692307696, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-72348;True;-72201.9008;96.0;4;0.0459562926553189;52;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.057692307692307696, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-72348;True;-72259.2344;153.0;7;0.0757436137646436;52;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.057692307692307696, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-72348;True;-72295.9168;210.0;10;0.1004856550134718;52;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.057692307692307696, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-72348;True;-72215.9746;172.0;8;0.0804816181771457;52;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.057692307692307696, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-7656;True;-7653.8622;1578.0;82;0.9679577709175646;70;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.04285714285714286, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-7656;True;-7654.6708;2319.0;121;1.417336334940046;70;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.04285714285714286, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-7656;True;-7655.8033;2072.0;108;1.278011253103614;70;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.04285714285714286, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-7656;True;-7654.9141;1806.0;94;1.1154881743714211;70;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.04285714285714286, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-7656;True;-7655.634;1369.0;71;0.8455703062936664;70;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.04285714285714286, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-6091;True;-6081.5046;153.0;7;0.1025753342546522;76;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.039473684210526314, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-6091;True;-6088.5835;134.0;6;0.0909774652682244;76;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.039473684210526314, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-6091;True;-6090.9237;210.0;10;0.1389252729713916;76;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.039473684210526314, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-6091;True;-6080.2455;305.0;15;0.2022008500061929;76;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.039473684210526314, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-6091;True;-6078.8432;191.0;9;0.1282691438682377;76;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.039473684210526314, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-1396943;True;-1395758.0903;324.0;16;0.2317904341034591;76;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.039473684210526314, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-1396943;True;-1395121.1945;153.0;7;0.1116904560476541;76;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.039473684210526314, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-1396943;True;-1396163.6867;343.0;17;0.2467829561792314;76;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.039473684210526314, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-1396943;True;-1396539.6443;267.0;13;0.18974335398525;76;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.039473684210526314, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-1396943;True;-1396696.5469;153.0;7;0.108888987917453;76;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.039473684210526314, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-7446;True;-7444.4235;400.0;20;0.4010481322184205;96;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.03125, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-7446;True;-7445.2695;381.0;19;0.3788156937807798;96;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.03125, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-7446;True;-7443.8966;343.0;17;0.3480175565928221;96;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.03125, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-7446;True;-7443.8041;419.0;21;0.4199163038283586;96;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.03125, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-7446;True;-7444.0253;343.0;17;0.3441520221531391;96;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.03125, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-340635;True;-340513.4299;1046.0;54;0.9937358112074436;100;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.03, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-340635;True;-340633.5005;780.0;40;0.7409888571128249;100;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.03, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-340635;True;-340577.3903;742.0;38;0.6998354690149426;100;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.03, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-340635;True;-340606.8542;647.0;33;0.6129791620187461;100;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.03, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-340635;True;-340503.578;818.0;42;0.775778696872294;100;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.03, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-320942;True;-320862.7711;1483.0;77;1.614386240951717;100;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.03, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-320942;True;-320853.3518;951.0;49;1.0386074907146394;100;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.03, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-320942;True;-320728.6345;1274.0;66;1.391942384187132;100;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.03, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-320942;True;-320809.1937;1008.0;52;1.0944811622612178;100;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.03, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-320942;True;-320928.231;1464.0;76;1.5929426681250334;100;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.03, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-316429;True;-316339.8703;2053.0;107;1.946870295330882;100;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.03, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-316429;True;-316388.2213;1635.0;85;1.5600515650585294;100;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.03, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-316429;True;-316380.3572;1977.0;103;1.8873477149754765;100;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.03, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-316429;True;-316341.1897;1616.0;84;1.5453559146262703;100;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.03, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-316429;True;-316385.0868;2129.0;111;2.02713206410408;100;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.03, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-7409;True;-7407.5398;1198.0;62;1.1514590121805668;101;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.0297029702970297, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-7409;True;-7408.4093;1483.0;77;1.4346666866913438;101;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.0297029702970297, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-7409;True;-7408.6795;1236.0;64;1.193710443563759;101;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.0297029702970297, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-7409;True;-7408.9735;1274.0;66;1.2308960878290236;101;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.0297029702970297, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-7409;True;-7408.8335;1369.0;71;1.3177558607421815;101;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.0297029702970297, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-251387;True;-251366.0218;875.0;45;0.81780422385782;105;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.02857142857142857, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-251387;True;-251269.3384;609.0;31;0.5709527530707419;105;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.02857142857142857, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-251387;True;-251343.0959;590.0;30;0.554828196298331;105;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.02857142857142857, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-251387;True;-251357.5675;970.0;50;0.9109710450284184;105;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.02857142857142857, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-251387;True;-251275.1883;894.0;46;0.8393000671640038;105;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.02857142857142857, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-95767;True;-95757.6013;1502.0;78;1.6700093150138855;130;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.023076923076923078, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-95767;True;-95756.8977;1787.0;93;1.9761962206102908;130;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.023076923076923078, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-95767;True;-95763.1601;1369.0;71;1.5211843610741198;130;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.023076923076923078, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-95767;True;-95764.3323;1350.0;70;1.4893005690537393;130;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.023076923076923078, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-95767;True;-95765.2316;1331.0;69;1.4794545457698405;130;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.023076923076923078, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-111359;True;-111358.8133;2927.0;153;3.815261897165328;150;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.02, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-111359;True;-111349.031;3060.0;160;3.954849035013467;150;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.02, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-111359;True;-111354.0483;2129.0;111;2.754936310928315;150;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.02, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-111359;True;-111355.058;2661.0;139;3.4247567099519074;150;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.02, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-111359;True;-111342.8744;2661.0;139;3.4422670719213784;150;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.02, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-33425;True;-33419.8198;1597.0;83;2.7610630877316;202;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.01485148514851485, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-33425;True;-33423.2976;1711.0;89;2.953427406027913;202;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.01485148514851485, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-33425;True;-33423.3736;1635.0;85;2.81615991704166;202;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.01485148514851485, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-33425;True;-33415.8214;1236.0;64;2.128997668158263;202;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.01485148514851485, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-33425;True;-33423.6988;1502.0;78;2.577092785853893;202;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.01485148514851485, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-154424;True;-154421.582;1274.0;66;2.309553664177656;225;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.013333333333333334, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-154424;True;-154418.5418;1198.0;62;2.1800319431349635;225;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.013333333333333334, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-154424;True;-154412.4744;1198.0;62;2.172193176113069;225;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.013333333333333334, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-154424;True;-154416.5219;1388.0;72;2.529310990124941;225;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.013333333333333334, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-154424;True;-154416.005;1312.0;68;2.3909684070385997;225;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.013333333333333334, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-69613;False;-69634.5195;44328.0;2332;120.0;280;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.010714285714285714, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-69613;False;-69626.4433;47463.0;2497;120.0;280;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.010714285714285714, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-69613;False;-69617.0436;50028.0;2632;120.0;280;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.010714285714285714, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-69613;False;-69628.2086;50180.0;2640;120.0;280;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.010714285714285714, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-69613;False;-69619.2576;50218.0;2642;120.0;280;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.010714285714285714, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-1678602;True;-1678359.1404;8931.0;469;35.62600897718221;442;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.006787330316742082, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-1678602;True;-1678587.4937;8817.0;463;35.1459450381808;442;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.006787330316742082, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-1678602;True;-1678564.6487;9216.0;484;36.854924065060914;442;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.006787330316742082, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-1678602;True;-1678597.5624;7259.0;381;28.934485852718357;442;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.006787330316742082, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-1678602;True;-1678594.7888;9843.0;517;39.25003565195948;442;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.006787330316742082, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-67389;False;-67567.4304;18298.0;962;120.0;666;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.0045045045045045045, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-67389;False;-67514.1843;20369.0;1071;120.0;666;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.0045045045045045045, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-67389;False;-67549.9624;20369.0;1071;120.0;666;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.0045045045045045045, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-67389;False;-67555.7495;20407.0;1073;120.0;666;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.0045045045045045045, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-67389;False;-67511.9908;18602.0;978;120.0;666;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.0045045045045045045, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-40210611;False;-40680185.3134;6233.0;327;120.0;2392;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.001254180602006689, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-40210611;False;-40675766.7129;6233.0;327;120.0;2392;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.001254180602006689, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-40210611;False;-40684065.9715;6233.0;327;120.0;2392;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.001254180602006689, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-40210611;False;-40670525.7959;6233.0;327;120.0;2392;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.001254180602006689, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}
+Static GA;-40210611;False;-40667343.5466;6233.0;327;120.0;2392;None;{'lambda1': 15, 'lambda2': 4, 'p': 0.001254180602006689, 'c': 0.3, 'mutation_operator': 'k-reverse', 'crossover_operators': 'ordered crossover(OX)'}

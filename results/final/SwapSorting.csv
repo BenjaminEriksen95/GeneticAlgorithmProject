@@ -1,0 +1,841 @@
+algorithm;goal;solved;best_fitness;explored;iterations;time;n;m;parameters
+Adaptive Mutation 2021 GA;2;True;2;13.0;0;0.0006866969633847;2;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;2;True;2;13.0;0;0.0006168179679661;2;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;2;True;2;13.0;0;0.0005183268804103;2;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;2;True;2;13.0;0;0.0003889971412718;2;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;2;True;2;13.0;0;0.0003899279981851;2;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;2;True;2;13.0;0;0.0004436408635228;2;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;2;True;2;13.0;0;0.0006760810501873;2;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;2;True;2;13.0;0;0.0006207989063113;2;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;2;True;2;13.0;0;0.0006764200516045;2;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;2;True;2;13.0;0;0.000499177025631;2;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;2;True;2;13.0;0;0.0006188668776303;2;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;2;True;2;13.0;0;0.0004475400783121;2;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;2;True;2;13.0;0;0.000561281107366;2;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;2;True;2;13.0;0;0.0006231020670384;2;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;2;True;2;13.0;0;0.0005577909760177;2;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;4;True;4;49.0;3;0.0008168139029294;4;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;4;True;4;13.0;0;0.000630565918982;4;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;4;True;4;13.0;0;0.0005792349111288;4;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;4;True;4;13.0;0;0.0007485949900001;4;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;4;True;4;13.0;0;0.0005152681842446;4;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;4;True;4;13.0;0;0.0005190700758248;4;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;4;True;4;25.0;1;0.0008477810770273;4;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;4;True;4;109.0;8;0.0012968510854989;4;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;4;True;4;13.0;0;0.0005791520234197;4;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;4;True;4;25.0;1;0.0007864781655371;4;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;4;True;4;13.0;0;0.0003417760599404;4;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;4;True;4;25.0;1;0.0005564501043409;4;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;4;True;4;25.0;1;0.0007752398960292;4;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;4;True;4;25.0;1;0.0006696239579468;4;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;4;True;4;25.0;1;0.0007304521277546;4;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;6;True;6;49.0;3;0.0009454390965402;6;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;6;True;6;193.0;15;0.0023637327831238;6;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;6;True;6;289.0;23;0.003306338796392;6;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;6;True;6;37.0;2;0.0007427921518683;6;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;6;True;6;169.0;13;0.0021535661071538;6;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;6;True;6;37.0;2;0.0009656839538365;6;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;6;True;6;121.0;9;0.0015827340539544;6;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;6;True;6;277.0;22;0.0030687749385833;6;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;6;True;6;157.0;12;0.0020063330885022;6;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;6;True;6;49.0;3;0.000906639965251;6;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;6;True;6;301.0;24;0.0034958310425281;6;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;6;True;6;85.0;6;0.0014232560060918;6;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;6;True;6;157.0;12;0.001963498070836;6;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;6;True;6;157.0;12;0.0020490810275077;6;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;6;True;6;145.0;11;0.0019726769533008;6;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;8;True;8;193.0;15;0.0020522070117294;8;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;8;True;8;205.0;16;0.0022378407884389;8;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;8;True;8;697.0;57;0.0067214968148618;8;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;8;True;8;409.0;33;0.0041889587882906;8;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;8;True;8;73.0;5;0.0010953731834888;8;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;8;True;8;193.0;15;0.0022246579173952;8;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;8;True;8;733.0;60;0.0071061858907341;8;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;8;True;8;685.0;56;0.0068137589842081;8;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;8;True;8;577.0;47;0.0058474198449403;8;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;8;True;8;553.0;45;0.0054412661120295;8;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;8;True;8;169.0;13;0.0020429748110473;8;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;8;True;8;817.0;67;0.0078255841508507;8;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;8;True;8;277.0;22;0.0028909330721944;8;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;8;True;8;493.0;40;0.0048867939040064;8;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;8;True;8;133.0;10;0.0016376439016312;8;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;10;True;10;997.0;82;0.0098881879821419;10;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;10;True;10;121.0;9;0.001579076051712;10;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;10;True;10;589.0;48;0.0060187361668795;10;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;10;True;10;4417.0;367;0.042619276093319;10;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;10;True;10;3193.0;265;0.0310281650163233;10;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;10;True;10;1069.0;88;0.0104313439223915;10;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;10;True;10;469.0;38;0.0048632079269737;10;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;10;True;10;3373.0;280;0.0324286359827965;10;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;10;True;10;1333.0;110;0.0131654401775449;10;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;10;True;10;1357.0;112;0.0132701811380684;10;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;10;True;10;4201.0;349;0.040288345888257;10;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;10;True;10;1285.0;106;0.0124389259144663;10;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;10;True;10;1933.0;160;0.0188460410572588;10;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;10;True;10;3817.0;317;0.0364963640458881;10;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;10;True;10;925.0;76;0.009208973031491;10;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;12;True;12;6373.0;530;0.0627597800921648;12;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;12;True;12;1441.0;119;0.0145335549023002;12;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;12;True;12;2917.0;242;0.0291261889506131;12;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;12;True;12;8749.0;728;0.0867543090134859;12;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;12;True;12;3697.0;307;0.0367543480824679;12;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;12;True;12;2893.0;240;0.0288970470428466;12;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;12;True;12;6265.0;521;0.061986168147996;12;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;12;True;12;913.0;75;0.0093326161149889;12;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;12;True;12;289.0;23;0.0033728969283401;12;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;12;True;12;32137.0;2677;0.3157020278740674;12;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;12;True;12;8473.0;705;0.0836108620278537;12;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;12;True;12;3925.0;326;0.0400066829752177;12;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;12;True;12;3241.0;269;0.0321550129447132;12;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;12;True;12;5461.0;454;0.0540770681109279;12;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;12;True;12;805.0;66;0.0084760829340666;12;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;14;True;14;65893.0;5490;0.9077276231255382;14;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;14;True;14;79345.0;6611;1.0950555491726846;14;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;14;True;14;85117.0;7092;1.1722205448895693;14;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;14;True;14;53665.0;4471;0.739142230944708;14;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;14;True;14;49873.0;4155;0.6869383710436523;14;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;14;True;14;15601.0;1299;0.2152008588891476;14;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;14;True;14;10561.0;879;0.1464886760804802;14;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;14;True;14;14377.0;1197;0.1974141430109739;14;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;14;True;14;4717.0;392;0.0654053939506411;14;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;14;True;14;18445.0;1536;0.2553541171364486;14;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;14;True;14;20629.0;1718;0.2841388268861919;14;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;14;True;14;11257.0;937;0.1559596920851618;14;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;14;True;14;12769.0;1063;0.1759429229423403;14;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;14;True;14;50053.0;4170;0.6916030729189515;14;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;14;True;14;50545.0;4211;0.6958659018855542;14;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;16;True;16;97717.0;8142;1.416539937024936;16;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;16;True;16;74965.0;6246;1.0874304310418663;16;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;16;True;16;159205.0;13266;2.308932372834533;16;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;16;True;16;53185.0;4431;0.7707375951576978;16;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;16;True;16;140785.0;11731;2.032339016906917;16;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;16;True;16;71713.0;5975;1.0389951399993151;16;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;16;True;16;14809.0;1233;0.2143682800233364;16;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;16;True;16;137569.0;11463;1.9964445219375195;16;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;16;True;16;839737.0;69977;12.109814534895122;16;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;16;True;16;17509.0;1458;0.2547952039167285;16;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;16;True;16;38209.0;3183;0.5557239821646363;16;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;16;True;16;29101.0;2424;0.4254425389226526;16;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;16;True;16;74089.0;6173;1.072708030929789;16;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;16;True;16;165781.0;13814;2.398996826028452;16;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;16;True;16;15457.0;1287;0.2242142609320581;16;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;18;False;17;982549.0;81878;15.0;18;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;18;True;18;94285.0;7856;1.476921448018402;18;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;18;True;18;98641.0;8219;1.5144203680101782;18;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;18;True;18;333733.0;27810;5.019595467951149;18;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;18;True;18;516577.0;43047;7.964498606976122;18;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;18;False;17;956557.0;79712;15.0;18;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;18;True;18;333769.0;27813;5.1324821980670094;18;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;18;True;18;240901.0;20074;3.82727623381652;18;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;18;False;17;959317.0;79942;15.0;18;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;18;True;18;276889.0;23073;4.257990980055183;18;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;18;True;18;623833.0;51985;9.73147552786395;18;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;18;True;18;533749.0;44478;8.223410758888349;18;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;18;True;18;110725.0;9226;1.7033976670354605;18;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;18;True;18;373129.0;31093;5.750205809948966;18;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;18;True;18;279853.0;23320;4.31397472997196;18;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;20;False;19;976513.0;81375;15.0;20;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;20;True;20;540529.0;45043;8.3009064020589;20;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;20;False;19;978205.0;81516;15.0;20;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;20;True;20;181897.0;15157;2.791827515000477;20;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;20;True;20;79573.0;6630;1.2204532821197065;20;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;20;True;20;599617.0;49967;9.18092831177637;20;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;20;False;19;978121.0;81509;15.0;20;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;20;False;19;979009.0;81583;15.0;20;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;20;False;19;979213.0;81600;15.0;20;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;20;True;20;509629.0;42468;7.646496613975614;20;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;20;True;20;347569.0;28963;5.22201634501107;20;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;20;True;20;871165.0;72596;13.090764426859096;20;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;20;True;20;738133.0;61510;11.414294079877436;20;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;20;False;19;965941.0;80494;15.0;20;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;20;True;20;47257.0;3937;0.7230027010664344;20;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;25;False;24;931405.0;77616;15.0;25;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;25;False;24;930373.0;77530;15.0;25;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;25;False;24;933973.0;77830;15.0;25;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;25;False;24;932089.0;77673;15.0;25;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;25;False;24;933469.0;77788;15.0;25;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;25;False;24;933277.0;77772;15.0;25;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;25;False;24;933433.0;77785;15.0;25;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;25;False;24;933649.0;77803;15.0;25;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;25;False;24;930001.0;77499;15.0;25;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;25;False;24;933409.0;77783;15.0;25;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;25;False;24;933061.0;77754;15.0;25;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;25;False;24;921289.0;76773;15.0;25;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;25;False;24;933613.0;77800;15.0;25;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;25;False;24;932917.0;77742;15.0;25;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;25;False;24;926509.0;77208;15.0;25;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;30;False;29;903049.0;75253;15.0;30;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;30;False;29;906133.0;75510;15.0;30;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;30;False;29;904297.0;75357;15.0;30;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;30;False;29;905557.0;75462;15.0;30;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;30;False;29;901153.0;75095;15.0;30;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;30;False;29;905425.0;75451;15.0;30;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;30;False;29;903949.0;75328;15.0;30;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;30;False;29;903541.0;75294;15.0;30;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;30;False;28;901669.0;75138;15.0;30;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;30;False;29;905569.0;75463;15.0;30;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;30;False;29;880765.0;73396;15.0;30;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;30;False;29;889441.0;74119;15.0;30;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;30;False;29;890665.0;74221;15.0;30;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;30;False;29;890281.0;74189;15.0;30;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;30;False;29;883285.0;73606;15.0;30;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;35;False;34;815617.0;67967;15.0;35;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;35;False;33;823381.0;68614;15.0;35;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;35;False;33;821773.0;68480;15.0;35;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;35;False;33;823981.0;68664;15.0;35;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;35;False;33;822373.0;68530;15.0;35;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;35;False;33;820789.0;68398;15.0;35;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;35;False;34;825781.0;68814;15.0;35;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;35;False;33;822325.0;68526;15.0;35;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;35;False;33;822421.0;68534;15.0;35;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;35;False;33;821329.0;68443;15.0;35;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;35;False;33;822829.0;68568;15.0;35;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;35;False;33;820393.0;68365;15.0;35;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;35;False;33;821533.0;68460;15.0;35;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;35;False;33;825757.0;68812;15.0;35;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;35;False;33;819361.0;68279;15.0;35;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;40;False;38;799813.0;66650;15.0;40;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;40;False;38;803185.0;66931;15.0;40;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;40;False;38;799045.0;66586;15.0;40;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;40;False;38;800941.0;66744;15.0;40;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;40;False;38;798421.0;66534;15.0;40;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;40;False;38;799141.0;66594;15.0;40;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;40;False;38;798949.0;66578;15.0;40;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;40;False;38;801169.0;66763;15.0;40;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;40;False;38;799129.0;66593;15.0;40;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;40;False;38;797833.0;66485;15.0;40;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;40;False;38;785221.0;65434;15.0;40;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;40;False;38;775057.0;64587;15.0;40;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;40;False;38;789973.0;65830;15.0;40;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;40;False;38;787249.0;65603;15.0;40;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+Adaptive Mutation 2021 GA;40;False;38;783157.0;65262;15.0;40;None;{'lambda': 12, 'F': 2.5, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;2;True;2;15.0;0;0.0005055309738963;2;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;2;True;2;15.0;0;0.0004857080057263;2;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;2;True;2;15.0;0;0.0005301791243255;2;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;2;True;2;15.0;0;0.0004476041067391;2;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;2;True;2;15.0;0;0.0004764711484313;2;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;2;True;2;15.0;0;0.0005307919345796;2;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;2;True;2;15.0;0;0.0005307940300554;2;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;2;True;2;15.0;0;0.0006030299700796;2;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;2;True;2;15.0;0;0.0005987398326396;2;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;2;True;2;15.0;0;0.0003899838775396;2;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;2;True;2;15.0;0;0.0005972839426249;2;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;2;True;2;15.0;0;0.0005874570924788;2;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;2;True;2;15.0;0;0.0004340109881013;2;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;2;True;2;15.0;0;0.000382371013984;2;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;2;True;2;15.0;0;0.0005171298980712;2;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;4;True;4;15.0;0;0.0005226910579949;4;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;4;True;4;29.0;1;0.0006526480428874;4;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;4;True;4;29.0;1;0.0006077568978071;4;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;4;True;4;15.0;0;0.0005036620423197;4;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;4;True;4;29.0;1;0.0007127751596271;4;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;4;True;4;29.0;1;0.0006748621817678;4;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;4;True;4;15.0;0;0.0006980500183999;4;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;4;True;4;29.0;1;0.0007073960732668;4;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;4;True;4;29.0;1;0.0005721941124647;4;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;4;True;4;85.0;5;0.0012038480490446;4;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;4;True;4;43.0;2;0.0008569061756134;4;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;4;True;4;29.0;1;0.0005753769073635;4;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;4;True;4;15.0;0;0.0004447209648787;4;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;4;True;4;15.0;0;0.0005229460075497;4;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;4;True;4;15.0;0;0.0004855508450418;4;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;6;True;6;337.0;23;0.0069563130382448;6;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;6;True;6;197.0;13;0.004125844920054;6;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;6;True;6;337.0;23;0.0066290830727666;6;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;6;True;6;99.0;6;0.0023290230892598;6;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;6;True;6;351.0;24;0.0062007380183786;6;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;6;True;6;85.0;5;0.0018310251180082;6;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;6;True;6;43.0;2;0.0012404189910739;6;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;6;True;6;43.0;2;0.0011145861353725;6;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;6;True;6;71.0;4;0.0016341081354767;6;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;6;True;6;393.0;27;0.0062192499171942;6;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;6;True;6;57.0;3;0.0013850070536136;6;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;6;True;6;85.0;5;0.002028526039794;6;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;6;True;6;757.0;53;0.0112647381611168;6;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;6;True;6;85.0;5;0.0015677579212933;6;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;6;True;6;197.0;13;0.0032804480288177;6;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;8;True;8;491.0;34;0.0069612290244549;8;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;8;True;8;2381.0;169;0.0320746810175478;8;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;8;True;8;3893.0;277;0.052742710802704;8;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;8;True;8;379.0;26;0.0053443450015038;8;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;8;True;8;3977.0;283;0.0531518661882728;8;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;8;True;8;1219.0;86;0.0164161149878054;8;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;8;True;8;6903.0;492;0.0909236092120409;8;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;8;True;8;393.0;27;0.0054772880394011;8;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;8;True;8;18551.0;1324;0.2442887630313635;8;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;8;True;8;393.0;27;0.0055155269801616;8;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;8;True;8;10445.0;745;0.1271553521510213;8;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;8;True;8;6427.0;458;0.0760949228424578;8;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;8;True;8;113.0;7;0.0016275369562208;8;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;8;True;8;351.0;24;0.0045332249719649;8;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;8;True;8;3501.0;249;0.0415717340074479;8;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;10;True;10;179635.0;12830;2.218133720103652;10;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;10;True;10;113.0;7;0.001731937052682;10;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;10;True;10;6385.0;455;0.0793020438868552;10;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;10;True;10;181287.0;12948;2.243424099870026;10;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;10;True;10;68993.0;4927;0.8504755981266499;10;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;10;True;10;981.0;69;0.0122608630917966;10;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;10;True;10;241445.0;17245;2.965188233880326;10;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;10;True;10;118707.0;8478;1.4585455060005188;10;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;10;True;10;345647.0;24688;4.249101195950061;10;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;10;True;10;143655.0;10260;1.7610216189641503;10;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;10;True;10;247297.0;17663;3.037009716965258;10;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;10;True;10;66823.0;4772;0.8284428489860147;10;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;10;True;10;24417.0;1743;0.3008174411952495;10;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;10;True;10;45991.0;3284;0.5644810711964965;10;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;10;True;10;30535.0;2180;0.3753482080064714;10;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;12;False;11;1144319.0;81736;15.0;12;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;12;False;11;1177275.0;84090;15.0;12;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;12;True;12;54937.0;3923;0.7030042870901525;12;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;12;True;12;357169.0;25511;4.555526613024995;12;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;12;False;11;1174447.0;83888;15.0;12;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;12;True;12;89671.0;6404;1.14635491091758;12;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;12;True;12;526597.0;37613;6.742376759881154;12;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;12;False;11;1173201.0;83799;15.0;12;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;12;True;12;638779.0;45626;8.13605814985931;12;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;12;False;11;1173579.0;83826;15.0;12;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;12;True;12;44955.0;3210;0.5744515680707991;12;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;12;False;11;1166439.0;83316;15.0;12;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;12;True;12;529747.0;37838;6.743854502914473;12;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;12;False;11;1175231.0;83944;15.0;12;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;12;True;12;1150689.0;82191;14.695433732820677;12;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;14;False;13;1143829.0;81701;15.0;14;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;14;False;13;1153111.0;82364;15.0;14;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;14;False;13;1150871.0;82204;15.0;14;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;14;False;13;1146307.0;81878;15.0;14;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;14;False;13;1154889.0;82491;15.0;14;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;14;False;13;1148673.0;82047;15.0;14;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;14;False;13;1151277.0;82233;15.0;14;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;14;False;13;1146265.0;81875;15.0;14;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;14;False;13;1149009.0;82071;15.0;14;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;14;False;13;1153223.0;82372;15.0;14;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;14;False;13;1149457.0;82103;15.0;14;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;14;True;14;91799.0;6556;1.1998337518889457;14;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;14;False;13;1151725.0;82265;15.0;14;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;14;False;13;1154497.0;82463;15.0;14;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;14;False;13;1153167.0;82368;15.0;14;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;16;True;16;17053.0;1217;0.3415645831264555;16;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;16;False;14;1078155.0;77010;15.0;16;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;16;False;14;766515.0;54750;15.0;16;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;16;False;15;1073549.0;76681;15.0;16;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;16;False;15;777575.0;55540;15.0;16;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;16;False;15;825567.0;58968;15.0;16;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;16;False;14;753621.0;53829;15.0;16;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;16;False;14;760159.0;54296;15.0;16;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;16;False;15;851187.0;60798;15.0;16;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;16;False;14;761335.0;54380;15.0;16;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;16;False;15;781229.0;55801;15.0;16;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;16;False;14;736989.0;52641;15.0;16;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;16;False;14;772059.0;55146;15.0;16;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;16;False;15;767439.0;54816;15.0;16;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;16;False;15;815627.0;58258;15.0;16;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;18;False;16;748077.0;53433;15.0;18;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;18;False;17;828129.0;59151;15.0;18;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;18;False;16;757149.0;54081;15.0;18;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;18;False;16;1047957.0;74853;15.0;18;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;18;False;16;775713.0;55407;15.0;18;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;18;False;16;1047341.0;74809;15.0;18;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;18;False;17;760159.0;54296;15.0;18;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;18;False;16;765983.0;54712;15.0;18;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;18;False;16;759291.0;54234;15.0;18;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;18;False;16;760705.0;54335;15.0;18;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;18;False;17;841989.0;60141;15.0;18;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;18;False;16;758143.0;54152;15.0;18;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;18;False;16;1027139.0;73366;15.0;18;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;18;False;16;760439.0;54316;15.0;18;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;18;False;16;1037373.0;74097;15.0;18;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;20;False;18;931617.0;66543;15.0;20;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;20;False;18;1007315.0;71950;15.0;20;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;20;False;19;832721.0;59479;15.0;20;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;20;False;18;989367.0;70668;15.0;20;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;20;False;19;969893.0;69277;15.0;20;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;20;False;18;995737.0;71123;15.0;20;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;20;False;18;729401.0;52099;15.0;20;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;20;False;17;732243.0;52302;15.0;20;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;20;False;17;737941.0;52709;15.0;20;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;20;False;18;756309.0;54021;15.0;20;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;20;False;18;989199.0;70656;15.0;20;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;20;False;18;1002303.0;71592;15.0;20;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;20;False;18;996913.0;71207;15.0;20;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;20;False;18;1004305.0;71735;15.0;20;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;20;False;18;1001939.0;71566;15.0;20;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;25;False;22;690271.0;49304;15.0;25;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;25;False;22;918891.0;65634;15.0;25;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;25;False;23;775279.0;55376;15.0;25;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;25;False;21;737311.0;52664;15.0;25;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;25;False;22;708093.0;50577;15.0;25;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;25;False;22;718691.0;51334;15.0;25;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;25;False;22;697943.0;49852;15.0;25;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;25;False;22;934907.0;66778;15.0;25;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;25;False;21;696291.0;49734;15.0;25;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;25;False;23;889505.0;63535;15.0;25;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;25;False;23;927305.0;66235;15.0;25;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;25;False;22;694499.0;49606;15.0;25;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;25;False;21;698041.0;49859;15.0;25;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;25;False;22;895231.0;63944;15.0;25;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;25;False;22;704439.0;50316;15.0;25;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;30;False;26;675151.0;48224;15.0;30;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;30;False;26;742575.0;53040;15.0;30;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;30;False;27;837551.0;59824;15.0;30;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;30;False;27;732999.0;52356;15.0;30;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;30;False;27;842059.0;60146;15.0;30;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;30;False;26;867553.0;61967;15.0;30;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;30;False;27;895553.0;63967;15.0;30;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;30;False;26;837131.0;59794;15.0;30;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;30;False;26;680023.0;48572;15.0;30;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;30;False;25;675501.0;48249;15.0;30;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;30;False;26;897667.0;64118;15.0;30;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;30;False;25;681255.0;48660;15.0;30;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;30;False;25;670503.0;47892;15.0;30;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;30;False;26;843151.0;60224;15.0;30;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;30;False;27;702325.0;50165;15.0;30;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;35;False;30;796433.0;56887;15.0;35;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;35;False;30;659163.0;47082;15.0;35;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;35;False;30;611927.0;43708;15.0;35;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;35;False;31;667171.0;47654;15.0;35;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;35;False;31;625983.0;44712;15.0;35;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;35;False;29;656419.0;46886;15.0;35;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;35;False;30;659051.0;47074;15.0;35;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;35;False;32;781831.0;55844;15.0;35;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;35;False;30;624723.0;44622;15.0;35;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;35;False;29;615567.0;43968;15.0;35;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;35;False;30;614993.0;43927;15.0;35;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;35;False;30;422619.0;30186;15.0;35;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;35;False;30;737759.0;52696;15.0;35;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;35;False;30;642895.0;45920;15.0;35;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;35;False;30;784407.0;56028;15.0;35;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;40;False;34;644757.0;46053;15.0;40;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;40;False;35;715611.0;51114;15.0;40;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;40;False;35;768699.0;54906;15.0;40;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;40;False;34;764891.0;54634;15.0;40;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;40;False;34;592775.0;42340;15.0;40;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;40;False;33;766865.0;54775;15.0;40;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;40;False;33;600447.0;42888;15.0;40;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;40;False;35;749309.0;53521;15.0;40;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;40;False;34;686589.0;49041;15.0;40;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;40;False;36;719167.0;51368;15.0;40;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;40;False;34;640627.0;45758;15.0;40;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;40;False;35;760411.0;54314;15.0;40;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;40;False;34;762833.0;54487;15.0;40;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;40;False;34;665561.0;47539;15.0;40;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 1;40;False;36;670391.0;47884;15.0;40;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'mutation_operator': 'k-swap'}
+GABE 2;2;True;2;15.0;0;0.0007682570721954;2;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;2;True;2;15.0;0;0.0006067901849746;2;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;2;True;2;15.0;0;0.0004102559760212;2;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;2;True;2;15.0;0;0.0006253269966691;2;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;2;True;2;15.0;0;0.0006182279903441;2;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;2;True;2;15.0;0;0.0007810478564351;2;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;2;True;2;15.0;0;0.000630160793662;2;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;2;True;2;15.0;0;0.0004493370652198;2;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;2;True;2;15.0;0;0.0005796540062874;2;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;2;True;2;15.0;0;0.0005819560028612;2;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;2;True;2;15.0;0;0.0006182009819895;2;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;2;True;2;15.0;0;0.0005764770321547;2;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;2;True;2;15.0;0;0.0005324441008269;2;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;2;True;2;15.0;0;0.0004983569961041;2;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;2;True;2;15.0;0;0.0005484009161591;2;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;4;True;4;29.0;1;0.000962221994996;4;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;4;True;4;29.0;1;0.0007659848779439;4;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;4;True;4;15.0;0;0.0006163890939205;4;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;4;True;4;15.0;0;0.0004195449873805;4;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;4;True;4;29.0;1;0.0008415230549871;4;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;4;True;4;29.0;1;0.0010262408759444;4;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;4;True;4;15.0;0;0.0006967929657548;4;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;4;True;4;15.0;0;0.0006347829475998;4;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;4;True;4;15.0;0;0.0005689640529453;4;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;4;True;4;15.0;0;0.0007042069919407;4;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;4;True;4;15.0;0;0.0006192771252244;4;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;4;True;4;29.0;1;0.0008303348440676;4;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;4;True;4;43.0;2;0.0012094820849597;4;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;4;True;4;43.0;2;0.0009471781086176;4;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;4;True;4;15.0;0;0.0006975380238145;4;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;6;True;6;365.0;25;0.0086641439702361;6;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;6;True;6;29.0;1;0.0010511628352105;6;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;6;True;6;421.0;29;0.0092345911543816;6;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;6;True;6;43.0;2;0.0012826099991798;6;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;6;True;6;729.0;51;0.0153864410240203;6;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;6;True;6;183.0;12;0.003773694159463;6;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;6;True;6;43.0;2;0.0014132079668343;6;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;6;True;6;533.0;37;0.010329324984923;6;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;6;True;6;225.0;15;0.0047372290864586;6;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;6;True;6;883.0;62;0.0161666749045252;6;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;6;True;6;85.0;5;0.0019041569903492;6;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;6;True;6;295.0;20;0.0055563070345669;6;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;6;True;6;435.0;30;0.0086230381857603;6;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;6;True;6;113.0;7;0.0024816629011183;6;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;6;True;6;141.0;9;0.003000017022714;6;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;8;True;8;477.0;33;0.0100023730192333;8;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;8;True;8;6945.0;495;0.137564152944833;8;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;8;True;8;1359.0;96;0.0274682289455086;8;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;8;True;8;4131.0;294;0.081990789854899;8;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;8;True;8;1247.0;88;0.0254148528911173;8;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;8;True;8;4425.0;315;0.0874254910741001;8;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;8;True;8;435.0;30;0.0086796390824019;8;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;8;True;8;785.0;55;0.0157581849489361;8;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;8;True;8;1779.0;126;0.0353793159592896;8;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;8;True;8;1569.0;111;0.0314737970475107;8;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;8;True;8;3417.0;243;0.0681161540560424;8;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;8;True;8;6049.0;431;0.1190060470253229;8;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;8;True;8;3137.0;223;0.0615530379582196;8;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;8;True;8;617.0;43;0.0126633769832551;8;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;8;True;8;4789.0;341;0.0943178618326783;8;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;10;True;10;6301.0;449;0.1456109560094773;10;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;10;True;10;2857.0;203;0.0651288910303264;10;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;10;True;10;23591.0;1684;0.5402425690554082;10;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;10;True;10;3207.0;228;0.0737796791363507;10;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;10;True;10;2003.0;142;0.0459923220332711;10;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;10;True;10;3669.0;261;0.083296624943614;10;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;10;True;10;15723.0;1122;0.3587934111710638;10;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;10;True;10;4523.0;322;0.1022989000193774;10;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;10;True;10;2479.0;176;0.0567614289466291;10;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;10;True;10;1583.0;112;0.0366672649979591;10;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;10;True;10;19377.0;1383;0.4424426630139351;10;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;10;True;10;25873.0;1847;0.5893349919933826;10;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;10;True;10;1583.0;112;0.0365301370620727;10;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;10;True;10;4621.0;329;0.1060607361141592;10;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;10;True;10;2129.0;151;0.0493732690811157;10;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;12;True;12;5937.0;423;0.1566043859347701;12;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;12;True;12;56435.0;4030;1.4648682379629463;12;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;12;True;12;21743.0;1552;0.5634764719288796;12;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;12;True;12;18033.0;1287;0.4654440521262586;12;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;12;True;12;34623.0;2472;0.8956546769477427;12;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;12;True;12;121409.0;8671;3.147034856956452;12;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;12;True;12;34791.0;2484;0.9057999139185996;12;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;12;True;12;82937.0;5923;2.154560327064246;12;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;12;True;12;9885.0;705;0.2557050080504268;12;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;12;True;12;44381.0;3169;1.1542826879303902;12;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;12;True;12;43961.0;3139;1.13869133987464;12;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;12;True;12;164193.0;11727;4.2529359778855;12;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;12;True;12;743.0;52;0.0198905579745769;12;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;12;True;12;66739.0;4766;1.722895015031099;12;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;12;True;12;10473.0;747;0.2719600209966302;12;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;14;True;14;32117.0;2293;0.8274640399031341;14;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;14;True;14;519457.0;37103;13.36161095299758;14;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;14;True;14;252645.0;18045;6.496961858123541;14;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;14;False;13;584109.0;41721;15.0;14;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;14;True;14;301449.0;21531;7.742405174067244;14;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;14;True;14;218807.0;15628;5.609569593099877;14;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;14;True;14;510021.0;36429;13.082610673038287;14;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;14;True;14;153063.0;10932;3.928017927799374;14;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;14;True;14;161925.0;11565;4.152686804067344;14;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;14;False;13;583577.0;41683;15.0;14;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;14;True;14;232345.0;16595;5.958060753066093;14;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;14;True;14;419343.0;29952;10.77478403202258;14;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;14;False;13;584179.0;41726;15.0;14;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;14;True;14;55483.0;3962;1.4296462361235172;14;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;14;True;14;53719.0;3836;1.3830037040170282;14;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;16;False;15;554023.0;39572;15.0;16;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;16;False;15;548073.0;39147;15.0;16;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;16;False;15;536215.0;38300;15.0;16;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;16;False;15;567519.0;40536;15.0;16;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;16;False;15;568079.0;40576;15.0;16;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;16;True;16;275619.0;19686;7.288411981891841;16;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;16;False;15;568415.0;40600;15.0;16;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;16;False;15;563977.0;40283;15.0;16;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;16;True;16;477149.0;34081;12.600435632979496;16;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;16;False;15;567855.0;40560;15.0;16;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;16;False;15;568149.0;40581;15.0;16;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;16;True;16;359801.0;25699;9.535231841960922;16;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;16;False;15;567589.0;40541;15.0;16;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;16;False;15;565503.0;40392;15.0;16;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;16;False;15;472333.0;33737;15.0;16;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;18;False;17;512611.0;36614;15.0;18;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;18;False;17;500011.0;35714;15.0;18;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;18;False;17;522733.0;37337;15.0;18;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;18;False;17;522677.0;37333;15.0;18;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;18;False;17;522593.0;37327;15.0;18;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;18;False;17;521375.0;37240;15.0;18;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;18;False;17;520269.0;37161;15.0;18;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;18;False;17;522257.0;37303;15.0;18;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;18;False;17;508593.0;36327;15.0;18;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;18;True;18;381039.0;27216;10.95008402899839;18;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;18;False;17;498471.0;35604;15.0;18;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;18;False;17;486291.0;34734;15.0;18;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;18;False;17;512387.0;36598;15.0;18;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;18;False;17;435737.0;31123;15.0;18;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;18;True;18;272987.0;19498;8.941888354020193;18;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;20;False;19;433707.0;30978;15.0;20;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;20;False;18;433371.0;30954;15.0;20;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;20;False;18;433315.0;30950;15.0;20;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;20;False;19;434827.0;31058;15.0;20;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;20;False;19;426987.0;30498;15.0;20;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;20;False;19;431607.0;30828;15.0;20;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;20;False;18;432699.0;30906;15.0;20;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;20;False;19;432643.0;30902;15.0;20;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;20;False;19;433623.0;30972;15.0;20;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;20;False;19;431719.0;30836;15.0;20;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;20;False;19;426329.0;30451;15.0;20;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;20;False;19;393667.0;28118;15.0;20;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;20;False;19;388249.0;27731;15.0;20;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;20;False;18;379877.0;27133;15.0;20;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;20;False;19;395025.0;28215;15.0;20;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;25;False;23;391133.0;27937;15.0;25;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;25;False;22;430613.0;30757;15.0;25;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;25;False;22;408311.0;29164;15.0;25;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;25;False;22;430893.0;30777;15.0;25;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;25;False;23;381151.0;27224;15.0;25;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;25;False;22;375439.0;26816;15.0;25;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;25;False;22;425195.0;30370;15.0;25;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;25;False;22;429255.0;30660;15.0;25;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;25;False;22;373745.0;26695;15.0;25;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;25;False;22;338717.0;24193;15.0;25;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;25;False;23;357421.0;25529;15.0;25;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;25;False;23;379009.0;27071;15.0;25;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;25;False;23;355419.0;25386;15.0;25;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;25;False;22;380479.0;27176;15.0;25;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;25;False;23;355069.0;25361;15.0;25;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;30;False;26;352619.0;25186;15.0;30;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;30;False;26;393457.0;28103;15.0;30;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;30;False;27;368845.0;26345;15.0;30;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;30;False;27;349735.0;24980;15.0;30;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;30;False;26;391399.0;27956;15.0;30;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;30;False;27;389481.0;27819;15.0;30;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;30;False;27;389803.0;27842;15.0;30;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;30;False;27;387759.0;27696;15.0;30;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;30;False;26;369153.0;26367;15.0;30;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;30;False;26;393373.0;28097;15.0;30;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;30;False;26;393597.0;28113;15.0;30;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;30;False;26;382313.0;27307;15.0;30;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;30;False;25;342035.0;24430;15.0;30;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;30;False;26;358765.0;25625;15.0;30;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;30;False;27;387367.0;27668;15.0;30;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;35;False;32;340915.0;24350;15.0;35;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;35;False;30;302891.0;21634;15.0;35;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;35;False;30;330933.0;23637;15.0;35;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;35;False;30;313335.0;22380;15.0;35;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;35;False;30;343799.0;24556;15.0;35;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;35;False;30;303325.0;21665;15.0;35;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;35;False;30;311039.0;22216;15.0;35;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;35;False;30;338843.0;24202;15.0;35;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;35;False;30;341503.0;24392;15.0;35;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;35;False;30;337905.0;24135;15.0;35;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;35;False;31;340929.0;24351;15.0;35;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;35;False;31;316919.0;22636;15.0;35;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;35;False;30;343701.0;24549;15.0;35;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;35;False;31;329127.0;23508;15.0;35;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;35;False;30;344079.0;24576;15.0;35;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;40;False;34;302569.0;21611;15.0;40;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;40;False;34;314231.0;22444;15.0;40;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;40;False;33;314483.0;22462;15.0;40;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;40;False;34;281793.0;20127;15.0;40;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;40;False;34;300455.0;21460;15.0;40;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;40;False;37;308043.0;22002;15.0;40;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;40;False;35;289521.0;20679;15.0;40;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;40;False;34;310871.0;22204;15.0;40;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;40;False;36;298215.0;21300;15.0;40;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;40;False;35;300903.0;21492;15.0;40;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;40;False;34;280645.0;20045;15.0;40;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;40;False;35;295905.0;21135;15.0;40;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;40;False;34;296717.0;21193;15.0;40;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;40;False;35;316107.0;22578;15.0;40;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+GABE 2;40;False;33;310661.0;22189;15.0;40;None;{'lambda': 12, 'lambda2': 2, 'F': 2.0, 'r_t1': 10, 'p': 0.3, 'local_mutation_operator': 'k-swap', 'global_mutation_operator': 'k-reverse'}
+SD-RLS* GA;2;True;2;2.0;0;2.509099431335926e-05;2;None;{'R': 3, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;2;True;2;2.0;0;2.4588080123066906e-05;2;None;{'R': 3, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;2;True;2;2.0;0;2.4256063625216484e-05;2;None;{'R': 3, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;2;True;2;2.0;0;2.3791799321770668e-05;2;None;{'R': 3, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;2;True;2;2.0;0;2.347305417060852e-05;2;None;{'R': 3, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;2;True;2;2.0;0;2.342299558222294e-05;2;None;{'R': 3, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;2;True;2;2.0;0;2.296292223036289e-05;2;None;{'R': 3, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;2;True;2;2.0;0;2.307211980223656e-05;2;None;{'R': 3, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;2;True;2;2.0;0;2.304883673787117e-05;2;None;{'R': 3, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;2;True;2;2.0;0;2.3543834686279297e-05;2;None;{'R': 3, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;2;True;2;2.0;0;2.319691702723503e-05;2;None;{'R': 3, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;2;True;2;2.0;0;2.304883673787117e-05;2;None;{'R': 3, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;2;True;2;2.0;0;2.232496626675129e-05;2;None;{'R': 3, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;2;True;2;3.0;1;5.614105612039566e-05;2;None;{'R': 3, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;2;True;2;2.0;0;2.547819167375565e-05;2;None;{'R': 3, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;4;True;4;4.0;2;6.606895476579666e-05;4;None;{'R': 5, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;4;True;4;19.0;17;0.0002429790329188;4;None;{'R': 5, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;4;True;4;2.0;0;2.6521040126681328e-05;4;None;{'R': 5, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;4;True;4;146.0;144;0.0019517189357429;4;None;{'R': 5, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;4;True;4;71.0;69;0.0009379759430885;4;None;{'R': 5, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;4;True;4;136.0;134;0.0017852631863206;4;None;{'R': 5, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;4;True;4;6.0;4;8.208304643630981e-05;4;None;{'R': 5, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;4;True;4;50.0;48;0.0006234559696167;4;None;{'R': 5, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;4;True;4;24.0;22;0.0002950970083475;4;None;{'R': 5, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;4;True;4;9.0;7;0.0001053081359714;4;None;{'R': 5, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;4;True;4;2.0;0;2.528401091694832e-05;4;None;{'R': 5, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;4;True;4;2.0;0;2.4907058104872704e-05;4;None;{'R': 5, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;4;True;4;13.0;11;0.0001616689842194;4;None;{'R': 5, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;4;True;4;36.0;34;0.0004677448887377;4;None;{'R': 5, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;4;True;4;5.0;3;6.494903936982155e-05;4;None;{'R': 5, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;6;True;6;284.0;282;0.004206882091239;6;None;{'R': 7, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;6;True;6;1553.0;1551;0.0246107219718396;6;None;{'R': 7, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;6;True;6;22.0;20;0.0002577409613877;6;None;{'R': 7, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;6;True;6;1500.0;1498;0.0238814239855855;6;None;{'R': 7, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;6;True;6;74.0;72;0.0009722791146486;6;None;{'R': 7, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;6;True;6;194.0;192;0.0027384830173105;6;None;{'R': 7, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;6;True;6;380.0;378;0.0057837178464978;6;None;{'R': 7, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;6;True;6;195.0;193;0.0028805001638829;6;None;{'R': 7, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;6;True;6;846.0;844;0.0134000249672681;6;None;{'R': 7, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;6;True;6;2522.0;2520;0.0403737050946801;6;None;{'R': 7, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;6;True;6;16.0;14;0.0002338711638003;6;None;{'R': 7, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;6;True;6;86.0;84;0.0011365970131009;6;None;{'R': 7, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;6;True;6;2099.0;2097;0.0335279419086873;6;None;{'R': 7, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;6;True;6;22.0;20;0.0002546771429479;6;None;{'R': 7, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;6;True;6;80.0;78;0.0010515411850064;6;None;{'R': 7, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;8;True;8;28404.0;28402;0.4825732870958745;8;None;{'R': 9, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;8;True;8;6562.0;6560;0.1104580431710928;8;None;{'R': 9, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;8;True;8;1195.0;1193;0.0187129559926688;8;None;{'R': 9, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;8;True;8;281.0;279;0.0036186960060149;8;None;{'R': 9, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;8;True;8;49.0;47;0.0005183641333132;8;None;{'R': 9, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;8;True;8;2435.0;2433;0.0398411431815475;8;None;{'R': 9, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;8;True;8;5457.0;5455;0.0917099767830222;8;None;{'R': 9, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;8;True;8;358.0;356;0.0046105361543595;8;None;{'R': 9, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;8;True;8;12385.0;12383;0.2109243930317461;8;None;{'R': 9, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;8;True;8;181523.0;181521;3.086601604009047;8;None;{'R': 9, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;8;True;8;7949.0;7947;0.1344844771083444;8;None;{'R': 9, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;8;True;8;6216.0;6214;0.1045833840034902;8;None;{'R': 9, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;8;True;8;19649.0;19647;0.3351960929576307;8;None;{'R': 9, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;8;True;8;663.0;661;0.0091816540807485;8;None;{'R': 9, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;8;True;8;4755.0;4753;0.0800584889948368;8;None;{'R': 9, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;10;True;10;149125.0;149123;3.145318211987614;10;None;{'R': 11, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;10;False;9;710535.0;710533;15.0;10;None;{'R': 11, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;10;True;10;533.0;531;0.00801134807989;10;None;{'R': 11, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;10;True;10;3016.0;3014;0.052341238129884;10;None;{'R': 11, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;10;True;10;568364.0;568362;11.97910230094567;10;None;{'R': 11, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;10;True;10;63425.0;63423;1.3313009799458086;10;None;{'R': 11, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;10;True;10;120298.0;120296;2.518636137014255;10;None;{'R': 11, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;10;False;9;708351.0;708349;15.0;10;None;{'R': 11, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;10;False;9;716641.0;716639;15.0;10;None;{'R': 11, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;10;True;10;20453.0;20451;0.421204149024561;10;None;{'R': 11, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;10;False;9;712264.0;712262;15.0;10;None;{'R': 11, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;10;True;10;48569.0;48567;1.015295566059649;10;None;{'R': 11, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;10;True;10;350893.0;350891;7.420487429946661;10;None;{'R': 11, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;10;True;10;9185.0;9183;0.1843934750650078;10;None;{'R': 11, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;10;False;9;710796.0;710794;15.0;10;None;{'R': 11, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;12;False;11;617474.0;617472;15.0;12;None;{'R': 13, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;12;True;12;76484.0;76482;1.8003767759073526;12;None;{'R': 13, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;12;False;11;605650.0;605648;15.0;12;None;{'R': 13, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;12;False;11;619762.0;619760;15.0;12;None;{'R': 13, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;12;False;11;618472.0;618470;15.0;12;None;{'R': 13, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;12;True;12;121069.0;121067;2.8999129210133106;12;None;{'R': 13, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;12;True;12;158101.0;158099;3.7958519451785833;12;None;{'R': 13, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;12;False;11;618074.0;618072;15.0;12;None;{'R': 13, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;12;False;11;620681.0;620679;15.0;12;None;{'R': 13, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;12;False;11;618709.0;618707;15.0;12;None;{'R': 13, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;12;False;11;618864.0;618862;15.0;12;None;{'R': 13, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;12;False;11;617738.0;617736;15.0;12;None;{'R': 13, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;12;True;12;34241.0;34239;0.7753202940803021;12;None;{'R': 13, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;12;True;12;359104.0;359102;8.697613077005371;12;None;{'R': 13, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;12;False;11;619011.0;619009;15.0;12;None;{'R': 13, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;14;False;13;584819.0;584817;15.0;14;None;{'R': 15, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;14;False;13;586039.0;586037;15.0;14;None;{'R': 15, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;14;False;13;586172.0;586170;15.0;14;None;{'R': 15, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;14;False;13;586577.0;586575;15.0;14;None;{'R': 15, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;14;False;13;586034.0;586032;15.0;14;None;{'R': 15, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;14;False;13;586297.0;586295;15.0;14;None;{'R': 15, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;14;False;13;585698.0;585696;15.0;14;None;{'R': 15, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;14;False;13;585659.0;585657;15.0;14;None;{'R': 15, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;14;True;14;458841.0;458839;11.666021656943483;14;None;{'R': 15, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;14;False;13;586558.0;586556;15.0;14;None;{'R': 15, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;14;False;13;586119.0;586117;15.0;14;None;{'R': 15, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;14;False;13;586854.0;586852;15.0;14;None;{'R': 15, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;14;False;13;584890.0;584888;15.0;14;None;{'R': 15, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;14;False;13;585361.0;585359;15.0;14;None;{'R': 15, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;14;False;13;585083.0;585081;15.0;14;None;{'R': 15, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;16;False;15;540261.0;540259;15.0;16;None;{'R': 17, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;16;False;15;539164.0;539162;15.0;16;None;{'R': 17, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;16;False;14;539821.0;539819;15.0;16;None;{'R': 17, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;16;False;14;539577.0;539575;15.0;16;None;{'R': 17, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;16;False;15;541084.0;541082;15.0;16;None;{'R': 17, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;16;False;15;538612.0;538610;15.0;16;None;{'R': 17, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;16;False;15;541808.0;541806;15.0;16;None;{'R': 17, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;16;False;15;541112.0;541110;15.0;16;None;{'R': 17, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;16;False;15;540439.0;540437;15.0;16;None;{'R': 17, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;16;False;15;539972.0;539970;15.0;16;None;{'R': 17, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;16;False;14;540993.0;540991;15.0;16;None;{'R': 17, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;16;False;15;538811.0;538809;15.0;16;None;{'R': 17, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;16;False;15;541085.0;541083;15.0;16;None;{'R': 17, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;16;False;15;540309.0;540307;15.0;16;None;{'R': 17, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;16;False;15;541329.0;541327;15.0;16;None;{'R': 17, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;18;False;16;536625.0;536623;15.0;18;None;{'R': 19, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;18;False;16;554298.0;554296;15.0;18;None;{'R': 19, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;18;False;16;568439.0;568437;15.0;18;None;{'R': 19, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;18;False;16;567637.0;567635;15.0;18;None;{'R': 19, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;18;False;16;566547.0;566545;15.0;18;None;{'R': 19, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;18;False;16;566942.0;566940;15.0;18;None;{'R': 19, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;18;False;16;568439.0;568437;15.0;18;None;{'R': 19, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;18;False;16;565494.0;565492;15.0;18;None;{'R': 19, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;18;False;16;566302.0;566300;15.0;18;None;{'R': 19, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;18;False;17;569741.0;569739;15.0;18;None;{'R': 19, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;18;False;17;570815.0;570813;15.0;18;None;{'R': 19, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;18;False;17;569405.0;569403;15.0;18;None;{'R': 19, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;18;False;16;559624.0;559622;15.0;18;None;{'R': 19, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;18;False;16;538111.0;538109;15.0;18;None;{'R': 19, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;18;False;16;541040.0;541038;15.0;18;None;{'R': 19, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;20;False;18;555956.0;555954;15.0;20;None;{'R': 21, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;20;False;17;564722.0;564720;15.0;20;None;{'R': 21, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;20;False;18;565305.0;565303;15.0;20;None;{'R': 21, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;20;False;18;565793.0;565791;15.0;20;None;{'R': 21, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;20;False;18;566592.0;566590;15.0;20;None;{'R': 21, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;20;False;18;566027.0;566025;15.0;20;None;{'R': 21, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;20;False;18;564654.0;564652;15.0;20;None;{'R': 21, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;20;False;18;564012.0;564010;15.0;20;None;{'R': 21, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;20;False;18;564226.0;564224;15.0;20;None;{'R': 21, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;20;False;17;565498.0;565496;15.0;20;None;{'R': 21, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;20;False;18;563985.0;563983;15.0;20;None;{'R': 21, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;20;False;18;563748.0;563746;15.0;20;None;{'R': 21, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;20;False;18;584573.0;584571;15.0;20;None;{'R': 21, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;20;False;18;567379.0;567377;15.0;20;None;{'R': 21, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;20;False;18;565007.0;565005;15.0;20;None;{'R': 21, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;25;False;22;586698.0;586696;15.0;25;None;{'R': 26, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;25;False;22;587835.0;587833;15.0;25;None;{'R': 26, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;25;False;23;598992.0;598990;15.0;25;None;{'R': 26, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;25;False;22;586970.0;586968;15.0;25;None;{'R': 26, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;25;False;23;590465.0;590463;15.0;25;None;{'R': 26, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;25;False;23;605429.0;605427;15.0;25;None;{'R': 26, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;25;False;22;595520.0;595518;15.0;25;None;{'R': 26, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;25;False;22;586957.0;586955;15.0;25;None;{'R': 26, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;25;False;23;596964.0;596962;15.0;25;None;{'R': 26, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;25;False;23;596269.0;596267;15.0;25;None;{'R': 26, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;25;False;22;596524.0;596522;15.0;25;None;{'R': 26, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;25;False;22;604844.0;604842;15.0;25;None;{'R': 26, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;25;False;22;588650.0;588648;15.0;25;None;{'R': 26, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;25;False;22;594737.0;594735;15.0;25;None;{'R': 26, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;25;False;21;594353.0;594351;15.0;25;None;{'R': 26, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;30;False;27;645343.0;645341;15.0;30;None;{'R': 31, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;30;False;26;647333.0;647331;15.0;30;None;{'R': 31, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;30;False;26;647366.0;647364;15.0;30;None;{'R': 31, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;30;False;26;643464.0;643462;15.0;30;None;{'R': 31, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;30;False;27;653512.0;653510;15.0;30;None;{'R': 31, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;30;False;26;647009.0;647007;15.0;30;None;{'R': 31, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;30;False;27;643337.0;643335;15.0;30;None;{'R': 31, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;30;False;26;647584.0;647582;15.0;30;None;{'R': 31, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;30;False;27;636760.0;636758;15.0;30;None;{'R': 31, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;30;False;27;647938.0;647936;15.0;30;None;{'R': 31, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;30;False;27;643247.0;643245;15.0;30;None;{'R': 31, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;30;False;25;640624.0;640622;15.0;30;None;{'R': 31, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;30;False;27;647451.0;647449;15.0;30;None;{'R': 31, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;30;False;26;639340.0;639338;15.0;30;None;{'R': 31, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;30;False;27;643801.0;643799;15.0;30;None;{'R': 31, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;35;False;30;623798.0;623796;15.0;35;None;{'R': 36, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;35;False;31;637984.0;637982;15.0;35;None;{'R': 36, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;35;False;32;637887.0;637885;15.0;35;None;{'R': 36, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;35;False;31;616753.0;616751;15.0;35;None;{'R': 36, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;35;False;30;614830.0;614828;15.0;35;None;{'R': 36, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;35;False;31;619718.0;619716;15.0;35;None;{'R': 36, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;35;False;30;613569.0;613567;15.0;35;None;{'R': 36, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;35;False;31;639708.0;639706;15.0;35;None;{'R': 36, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;35;False;31;613444.0;613442;15.0;35;None;{'R': 36, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;35;False;30;619995.0;619993;15.0;35;None;{'R': 36, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;35;False;29;609021.0;609019;15.0;35;None;{'R': 36, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;35;False;31;626171.0;626169;15.0;35;None;{'R': 36, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;35;False;31;614628.0;614626;15.0;35;None;{'R': 36, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;35;False;30;614227.0;614225;15.0;35;None;{'R': 36, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;35;False;32;637796.0;637794;15.0;35;None;{'R': 36, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;40;False;35;592444.0;592442;15.0;40;None;{'R': 41, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;40;False;35;597635.0;597633;15.0;40;None;{'R': 41, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;40;False;34;592477.0;592475;15.0;40;None;{'R': 41, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;40;False;34;597251.0;597249;15.0;40;None;{'R': 41, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;40;False;35;594002.0;594000;15.0;40;None;{'R': 41, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;40;False;35;592232.0;592230;15.0;40;None;{'R': 41, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;40;False;34;609073.0;609071;15.0;40;None;{'R': 41, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;40;False;36;610070.0;610068;15.0;40;None;{'R': 41, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;40;False;35;594542.0;594540;15.0;40;None;{'R': 41, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;40;False;35;593857.0;593855;15.0;40;None;{'R': 41, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;40;False;35;603436.0;603434;15.0;40;None;{'R': 41, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;40;False;35;610665.0;610663;15.0;40;None;{'R': 41, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;40;False;34;592647.0;592645;15.0;40;None;{'R': 41, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;40;False;35;607349.0;607347;15.0;40;None;{'R': 41, 'mutation_operator': 'k-swap'}
+SD-RLS* GA;40;False;35;595200.0;595198;15.0;40;None;{'R': 41, 'mutation_operator': 'k-swap'}
