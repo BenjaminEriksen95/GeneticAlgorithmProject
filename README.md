@@ -1,8 +1,8 @@
 # A Framework for Self-Adaptive Genetic Algorithms
-By Benjamin Eriksen
+Master's Thesis By Benjamin Eriksen
 
 ## Overview
-
+This folder contains the thesis itself, along with the program developed. The folders are structured as described in the following subsections.  
 
 ### framework
 Contains the framework for implementing and testing gentic algorithms. The details about the structure is found in the thesis report.
